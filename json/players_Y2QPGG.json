@@ -1,0 +1,283 @@
+{
+  "tag": "Y2QPGG",
+  "id": {
+    "high": 0,
+    "low": 10733
+  },
+  "name": "Lex_YouTube",
+  "nameColorCode": "CB5AFF",
+  "brawlersUnlocked": 27,
+  "victories": 6425,
+  "soloShowdownVictories": 70,
+  "duoShowdownVictories": 277,
+  "totalExp": 105606,
+  "expFmt": "1266/1450",
+  "expLevel": 142,
+  "trophies": 13611,
+  "highestTrophies": 13611,
+  "avatarId": 28000033,
+  "avatarUrl": "https://media.githubusercontent.com/media/fourjr/bs-assets/master/player_icons/28000033.png",
+  "bestTimeAsBigBrawler": "3m 23s",
+  "bestRoboRumbleTime": "13m 14s",
+  "hasSkins": true,
+  "club": {
+    "id": {
+      "high": 0,
+      "low": 230337
+    },
+    "tag": "QCGV8PG",
+    "name": "Cactus Bandits",
+    "role": "President",
+    "badgeId": 13,
+    "badgeUrl": "https://media.githubusercontent.com/media/fourjr/bs-assets/master/club_badges/clan_badge_04_02.png",
+    "members": 100,
+    "trophies": 1407977,
+    "requiredTrophies": 13000,
+    "onlineMembers": 8
+  },
+  "brawlers": [
+    {
+      "name": "Crow",
+      "hasSkin": true,
+      "skin": "Mecha Crow",
+      "trophies": 554,
+      "highestTrophies": 603,
+      "power": 10,
+      "rank": 20
+    },
+    {
+      "name": "Nita",
+      "hasSkin": true,
+      "skin": "Shiba Nita",
+      "trophies": 534,
+      "highestTrophies": 602,
+      "power": 10,
+      "rank": 20
+    },
+    {
+      "name": "Shelly",
+      "hasSkin": true,
+      "skin": "Bandita Shelly",
+      "trophies": 510,
+      "highestTrophies": 545,
+      "power": 10,
+      "rank": 20
+    },
+    {
+      "name": "Colt",
+      "hasSkin": true,
+      "skin": "Royal Agent Colt",
+      "trophies": 508,
+      "highestTrophies": 508,
+      "power": 10,
+      "rank": 20
+    },
+    {
+      "name": "Spike",
+      "hasSkin": true,
+      "skin": "Robo Spike",
+      "trophies": 504,
+      "highestTrophies": 632,
+      "power": 10,
+      "rank": 20
+    },
+    {
+      "name": "Carl",
+      "hasSkin": true,
+      "skin": "Road Rage Carl",
+      "trophies": 501,
+      "highestTrophies": 509,
+      "power": 10,
+      "rank": 20
+    },
+    {
+      "name": "Bull",
+      "hasSkin": true,
+      "skin": "Touchdown Bull",
+      "trophies": 500,
+      "highestTrophies": 520,
+      "power": 10,
+      "rank": 20
+    },
+    {
+      "name": "Brock",
+      "hasSkin": true,
+      "skin": "Lion Dance Brock",
+      "trophies": 500,
+      "highestTrophies": 571,
+      "power": 10,
+      "rank": 20
+    },
+    {
+      "name": "Rico",
+      "hasSkin": true,
+      "skin": "Loaded Rico",
+      "trophies": 500,
+      "highestTrophies": 513,
+      "power": 10,
+      "rank": 20
+    },
+    {
+      "name": "Barley",
+      "hasSkin": true,
+      "skin": "Maple Barley",
+      "trophies": 500,
+      "highestTrophies": 601,
+      "power": 10,
+      "rank": 20
+    },
+    {
+      "name": "Jessie",
+      "hasSkin": true,
+      "skin": "Dragon Knight Jessie",
+      "trophies": 500,
+      "highestTrophies": 553,
+      "power": 10,
+      "rank": 20
+    },
+    {
+      "name": "Dynamike",
+      "hasSkin": true,
+      "skin": "Spicy Mike",
+      "trophies": 500,
+      "highestTrophies": 510,
+      "power": 10,
+      "rank": 20
+    },
+    {
+      "name": "El Primo",
+      "hasSkin": true,
+      "skin": "El Rey Primo",
+      "trophies": 500,
+      "highestTrophies": 502,
+      "power": 10,
+      "rank": 20
+    },
+    {
+      "name": "Mortis",
+      "hasSkin": true,
+      "skin": "Top Hat Mortis",
+      "trophies": 500,
+      "highestTrophies": 563,
+      "power": 10,
+      "rank": 20
+    },
+    {
+      "name": "Poco",
+      "hasSkin": true,
+      "skin": "Serenade Poco",
+      "trophies": 500,
+      "highestTrophies": 546,
+      "power": 10,
+      "rank": 20
+    },
+    {
+      "name": "Bo",
+      "hasSkin": false,
+      "skin": null,
+      "trophies": 500,
+      "highestTrophies": 581,
+      "power": 10,
+      "rank": 20
+    },
+    {
+      "name": "Piper",
+      "hasSkin": false,
+      "skin": null,
+      "trophies": 500,
+      "highestTrophies": 500,
+      "power": 10,
+      "rank": 20
+    },
+    {
+      "name": "Pam",
+      "hasSkin": false,
+      "skin": null,
+      "trophies": 500,
+      "highestTrophies": 559,
+      "power": 10,
+      "rank": 20
+    },
+    {
+      "name": "Tara",
+      "hasSkin": false,
+      "skin": null,
+      "trophies": 500,
+      "highestTrophies": 542,
+      "power": 10,
+      "rank": 20
+    },
+    {
+      "name": "Darryl",
+      "hasSkin": true,
+      "skin": "Dumpling Darryl",
+      "trophies": 500,
+      "highestTrophies": 564,
+      "power": 10,
+      "rank": 20
+    },
+    {
+      "name": "Penny",
+      "hasSkin": true,
+      "skin": "Lil Helper Penny",
+      "trophies": 500,
+      "highestTrophies": 569,
+      "power": 10,
+      "rank": 20
+    },
+    {
+      "name": "Frank",
+      "hasSkin": true,
+      "skin": "Caveman Frank",
+      "trophies": 500,
+      "highestTrophies": 502,
+      "power": 10,
+      "rank": 20
+    },
+    {
+      "name": "Gene",
+      "hasSkin": false,
+      "skin": null,
+      "trophies": 500,
+      "highestTrophies": 501,
+      "power": 10,
+      "rank": 20
+    },
+    {
+      "name": "Tick",
+      "hasSkin": false,
+      "skin": null,
+      "trophies": 500,
+      "highestTrophies": 501,
+      "power": 10,
+      "rank": 20
+    },
+    {
+      "name": "Leon",
+      "hasSkin": false,
+      "skin": null,
+      "trophies": 500,
+      "highestTrophies": 513,
+      "power": 10,
+      "rank": 20
+    },
+    {
+      "name": "Rosa",
+      "hasSkin": false,
+      "skin": null,
+      "trophies": 500,
+      "highestTrophies": 500,
+      "power": 10,
+      "rank": 20
+    },
+    {
+      "name": "Bibi",
+      "hasSkin": false,
+      "skin": null,
+      "trophies": 500,
+      "highestTrophies": 501,
+      "power": 10,
+      "rank": 20
+    }
+  ]
+}

@@ -1,0 +1,2602 @@
+[
+  {
+    "id": {
+      "high": 0,
+      "low": 2250634
+    },
+    "tag": "YLQ9VRGP",
+    "name": "Omen",
+    "badgeId": 2,
+    "badgeUrl": "https://media.githubusercontent.com/media/fourjr/bs-assets/master/club_badges/clan_badge_01_03.png",
+    "position": 1,
+    "trophies": 1612573,
+    "membersCount": 98
+  },
+  {
+    "id": {
+      "high": 1,
+      "low": 1532325
+    },
+    "tag": "9J2Y9L29",
+    "name": "A Few Good Men",
+    "badgeId": 25,
+    "badgeUrl": "https://media.githubusercontent.com/media/fourjr/bs-assets/master/club_badges/clan_badge_03_06.png",
+    "position": 2,
+    "trophies": 1596804,
+    "membersCount": 98
+  },
+  {
+    "id": {
+      "high": 0,
+      "low": 209021
+    },
+    "tag": "Q2LUQ0P",
+    "name": "Nova Esports",
+    "badgeId": 10,
+    "badgeUrl": "https://media.githubusercontent.com/media/fourjr/bs-assets/master/club_badges/clan_badge_03_03.png",
+    "position": 3,
+    "trophies": 1543980,
+    "membersCount": 100
+  },
+  {
+    "id": {
+      "high": 0,
+      "low": 1050134
+    },
+    "tag": "8QRCVRGP",
+    "name": "Team Clovers",
+    "badgeId": 14,
+    "badgeUrl": "https://media.githubusercontent.com/media/fourjr/bs-assets/master/club_badges/clan_badge_04_03.png",
+    "position": 4,
+    "trophies": 1513109,
+    "membersCount": 100
+  },
+  {
+    "id": {
+      "high": 1,
+      "low": 1028607
+    },
+    "tag": "8LVGQPRC",
+    "name": "ArkStars",
+    "badgeId": 18,
+    "badgeUrl": "https://media.githubusercontent.com/media/fourjr/bs-assets/master/club_badges/clan_badge_05_03.png",
+    "position": 5,
+    "trophies": 1490909,
+    "membersCount": 100
+  },
+  {
+    "id": {
+      "high": 0,
+      "low": 217678
+    },
+    "tag": "QYGG82J",
+    "name": "Nova Hispania",
+    "badgeId": 10,
+    "badgeUrl": "https://media.githubusercontent.com/media/fourjr/bs-assets/master/club_badges/clan_badge_03_03.png",
+    "position": 6,
+    "trophies": 1479679,
+    "membersCount": 100
+  },
+  {
+    "id": {
+      "high": 4,
+      "low": 1851459
+    },
+    "tag": "PLV9UU8G",
+    "name": "LA Spain",
+    "badgeId": 14,
+    "badgeUrl": "https://media.githubusercontent.com/media/fourjr/bs-assets/master/club_badges/clan_badge_04_03.png",
+    "position": 7,
+    "trophies": 1466306,
+    "membersCount": 100
+  },
+  {
+    "id": {
+      "high": 1,
+      "low": 386768
+    },
+    "tag": "V82YPY9",
+    "name": "Brazilian Storm",
+    "badgeId": 19,
+    "badgeUrl": "https://media.githubusercontent.com/media/fourjr/bs-assets/master/club_badges/clan_badge_05_04.png",
+    "position": 8,
+    "trophies": 1430570,
+    "membersCount": 100
+  },
+  {
+    "id": {
+      "high": 0,
+      "low": 1111339
+    },
+    "tag": "8RJVCJCL",
+    "name": "Nova Ace ♠️",
+    "badgeId": 10,
+    "badgeUrl": "https://media.githubusercontent.com/media/fourjr/bs-assets/master/club_badges/clan_badge_03_03.png",
+    "position": 9,
+    "trophies": 1428450,
+    "membersCount": 100
+  },
+  {
+    "id": {
+      "high": 0,
+      "low": 630234
+    },
+    "tag": "2QYVCPJU",
+    "name": "Team Liquid",
+    "badgeId": 21,
+    "badgeUrl": "https://media.githubusercontent.com/media/fourjr/bs-assets/master/club_badges/clan_badge_01_06.png",
+    "position": 10,
+    "trophies": 1426126,
+    "membersCount": 100
+  },
+  {
+    "id": {
+      "high": 1,
+      "low": 317988
+    },
+    "tag": "JCY0Q9C",
+    "name": "Tribe Activium",
+    "badgeId": 23,
+    "badgeUrl": "https://media.githubusercontent.com/media/fourjr/bs-assets/master/club_badges/clan_badge_02_06.png",
+    "position": 11,
+    "trophies": 1421934,
+    "membersCount": 96
+  },
+  {
+    "id": {
+      "high": 0,
+      "low": 548780
+    },
+    "tag": "2PR902UP",
+    "name": "NINGUÉM SEGURA",
+    "badgeId": 25,
+    "badgeUrl": "https://media.githubusercontent.com/media/fourjr/bs-assets/master/club_badges/clan_badge_03_06.png",
+    "position": 12,
+    "trophies": 1421217,
+    "membersCount": 100
+  },
+  {
+    "id": {
+      "high": 1,
+      "low": 390392
+    },
+    "tag": "V9CQYJR",
+    "name": "Nine Circles",
+    "badgeId": 21,
+    "badgeUrl": "https://media.githubusercontent.com/media/fourjr/bs-assets/master/club_badges/clan_badge_01_06.png",
+    "position": 13,
+    "trophies": 1409982,
+    "membersCount": 100
+  },
+  {
+    "id": {
+      "high": 0,
+      "low": 230337
+    },
+    "tag": "QCGV8PG",
+    "name": "Cactus Bandits",
+    "badgeId": 13,
+    "badgeUrl": "https://media.githubusercontent.com/media/fourjr/bs-assets/master/club_badges/clan_badge_04_02.png",
+    "position": 14,
+    "trophies": 1408046,
+    "membersCount": 100
+  },
+  {
+    "id": {
+      "high": 0,
+      "low": 1073783
+    },
+    "tag": "8GQ2G028",
+    "name": "QLASH Olympus",
+    "badgeId": 21,
+    "badgeUrl": "https://media.githubusercontent.com/media/fourjr/bs-assets/master/club_badges/clan_badge_01_06.png",
+    "position": 15,
+    "trophies": 1400514,
+    "membersCount": 97
+  },
+  {
+    "id": {
+      "high": 0,
+      "low": 354545
+    },
+    "tag": "U0JR28G",
+    "name": "x6tence",
+    "badgeId": 16,
+    "badgeUrl": "https://media.githubusercontent.com/media/fourjr/bs-assets/master/club_badges/clan_badge_05_01.png",
+    "position": 16,
+    "trophies": 1395975,
+    "membersCount": 99
+  },
+  {
+    "id": {
+      "high": 1,
+      "low": 972118
+    },
+    "tag": "8Y0J2982",
+    "name": "Nova Reborn",
+    "badgeId": 10,
+    "badgeUrl": "https://media.githubusercontent.com/media/fourjr/bs-assets/master/club_badges/clan_badge_03_03.png",
+    "position": 17,
+    "trophies": 1394906,
+    "membersCount": 100
+  },
+  {
+    "id": {
+      "high": 1,
+      "low": 829315
+    },
+    "tag": "808JLLV9",
+    "name": "FUJISAN ／^_^＼",
+    "badgeId": 23,
+    "badgeUrl": "https://media.githubusercontent.com/media/fourjr/bs-assets/master/club_badges/clan_badge_02_06.png",
+    "position": 18,
+    "trophies": 1364219,
+    "membersCount": 97
+  },
+  {
+    "id": {
+      "high": 1,
+      "low": 354804
+    },
+    "tag": "U0UY9LR",
+    "name": "Frost Effect™",
+    "badgeId": 21,
+    "badgeUrl": "https://media.githubusercontent.com/media/fourjr/bs-assets/master/club_badges/clan_badge_01_06.png",
+    "position": 19,
+    "trophies": 1364123,
+    "membersCount": 98
+  },
+  {
+    "id": {
+      "high": 0,
+      "low": 4662
+    },
+    "tag": "890V80",
+    "name": "日本のミカタ",
+    "badgeId": 26,
+    "badgeUrl": "https://media.githubusercontent.com/media/fourjr/bs-assets/master/club_badges/clan_badge_04_05.png",
+    "position": 20,
+    "trophies": 1356966,
+    "membersCount": 95
+  },
+  {
+    "id": {
+      "high": 1,
+      "low": 1537759
+    },
+    "tag": "9J9VLYQC",
+    "name": "QLASH NL",
+    "badgeId": 21,
+    "badgeUrl": "https://media.githubusercontent.com/media/fourjr/bs-assets/master/club_badges/clan_badge_01_06.png",
+    "position": 21,
+    "trophies": 1356851,
+    "membersCount": 100
+  },
+  {
+    "id": {
+      "high": 1,
+      "low": 386024
+    },
+    "tag": "V2JYUGR",
+    "name": "封測2年老舊帳號放置區",
+    "badgeId": 8,
+    "badgeUrl": "https://media.githubusercontent.com/media/fourjr/bs-assets/master/club_badges/clan_badge_03_01.png",
+    "position": 22,
+    "trophies": 1355677,
+    "membersCount": 99
+  },
+  {
+    "id": {
+      "high": 2,
+      "low": 39975
+    },
+    "tag": "2Y0YL9G",
+    "name": "크라운 베이커리",
+    "badgeId": 21,
+    "badgeUrl": "https://media.githubusercontent.com/media/fourjr/bs-assets/master/club_badges/clan_badge_01_06.png",
+    "position": 23,
+    "trophies": 1355571,
+    "membersCount": 98
+  },
+  {
+    "id": {
+      "high": 1,
+      "low": 612793
+    },
+    "tag": "2LCRG8RC",
+    "name": "Brawlzil Force",
+    "badgeId": 21,
+    "badgeUrl": "https://media.githubusercontent.com/media/fourjr/bs-assets/master/club_badges/clan_badge_01_06.png",
+    "position": 24,
+    "trophies": 1352758,
+    "membersCount": 99
+  },
+  {
+    "id": {
+      "high": 1,
+      "low": 3214
+    },
+    "tag": "2QYCUY",
+    "name": "Caju Royale",
+    "badgeId": 29,
+    "badgeUrl": "https://media.githubusercontent.com/media/fourjr/bs-assets/master/club_badges/clan_badge_05_06.png",
+    "position": 25,
+    "trophies": 1345925,
+    "membersCount": 100
+  },
+  {
+    "id": {
+      "high": 6,
+      "low": 1003926
+    },
+    "tag": "8L2U0JPL",
+    "name": "ASTRON eSports",
+    "badgeId": 14,
+    "badgeUrl": "https://media.githubusercontent.com/media/fourjr/bs-assets/master/club_badges/clan_badge_04_03.png",
+    "position": 26,
+    "trophies": 1345719,
+    "membersCount": 97
+  },
+  {
+    "id": {
+      "high": 1,
+      "low": 215102
+    },
+    "tag": "QPYYCQC",
+    "name": "BrawlConQueso",
+    "badgeId": 29,
+    "badgeUrl": "https://media.githubusercontent.com/media/fourjr/bs-assets/master/club_badges/clan_badge_05_06.png",
+    "position": 27,
+    "trophies": 1342905,
+    "membersCount": 99
+  },
+  {
+    "id": {
+      "high": 0,
+      "low": 427549
+    },
+    "tag": "20QQ2VPU",
+    "name": "Die Einheit",
+    "badgeId": 11,
+    "badgeUrl": "https://media.githubusercontent.com/media/fourjr/bs-assets/master/club_badges/clan_badge_03_04.png",
+    "position": 28,
+    "trophies": 1338400,
+    "membersCount": 98
+  },
+  {
+    "id": {
+      "high": 0,
+      "low": 196
+    },
+    "tag": "2PP00",
+    "name": "Orange Juice",
+    "badgeId": 16,
+    "badgeUrl": "https://media.githubusercontent.com/media/fourjr/bs-assets/master/club_badges/clan_badge_05_01.png",
+    "position": 29,
+    "trophies": 1337395,
+    "membersCount": 100
+  },
+  {
+    "id": {
+      "high": 1,
+      "low": 178351
+    },
+    "tag": "L0UQ89Q",
+    "name": "Nova Aries",
+    "badgeId": 10,
+    "badgeUrl": "https://media.githubusercontent.com/media/fourjr/bs-assets/master/club_badges/clan_badge_03_03.png",
+    "position": 30,
+    "trophies": 1322369,
+    "membersCount": 98
+  },
+  {
+    "id": {
+      "high": 1,
+      "low": 822871
+    },
+    "tag": "2VVRQPP2",
+    "name": "Tribe 6ix",
+    "badgeId": 23,
+    "badgeUrl": "https://media.githubusercontent.com/media/fourjr/bs-assets/master/club_badges/clan_badge_02_06.png",
+    "position": 31,
+    "trophies": 1318627,
+    "membersCount": 99
+  },
+  {
+    "id": {
+      "high": 1,
+      "low": 1072958
+    },
+    "tag": "8GLJ20QQ",
+    "name": "QLASH Chronos",
+    "badgeId": 21,
+    "badgeUrl": "https://media.githubusercontent.com/media/fourjr/bs-assets/master/club_badges/clan_badge_01_06.png",
+    "position": 32,
+    "trophies": 1318501,
+    "membersCount": 100
+  },
+  {
+    "id": {
+      "high": 0,
+      "low": 281
+    },
+    "tag": "2U90P",
+    "name": "AuRuM TV",
+    "badgeId": 29,
+    "badgeUrl": "https://media.githubusercontent.com/media/fourjr/bs-assets/master/club_badges/clan_badge_05_06.png",
+    "position": 33,
+    "trophies": 1318263,
+    "membersCount": 100
+  },
+  {
+    "id": {
+      "high": 0,
+      "low": 5
+    },
+    "tag": "LQL",
+    "name": "Tribe Gaming",
+    "badgeId": 23,
+    "badgeUrl": "https://media.githubusercontent.com/media/fourjr/bs-assets/master/club_badges/clan_badge_02_06.png",
+    "position": 34,
+    "trophies": 1316754,
+    "membersCount": 100
+  },
+  {
+    "id": {
+      "high": 1,
+      "low": 1756889
+    },
+    "tag": "P9J9J08Y",
+    "name": "Omen Synergy",
+    "badgeId": 2,
+    "badgeUrl": "https://media.githubusercontent.com/media/fourjr/bs-assets/master/club_badges/clan_badge_01_03.png",
+    "position": 35,
+    "trophies": 1313496,
+    "membersCount": 99
+  },
+  {
+    "id": {
+      "high": 0,
+      "low": 330253
+    },
+    "tag": "C98JJU0",
+    "name": "Nova JPN",
+    "badgeId": 10,
+    "badgeUrl": "https://media.githubusercontent.com/media/fourjr/bs-assets/master/club_badges/clan_badge_03_03.png",
+    "position": 36,
+    "trophies": 1312850,
+    "membersCount": 98
+  },
+  {
+    "id": {
+      "high": 1,
+      "low": 655291
+    },
+    "tag": "2G9UC0P2",
+    "name": "Nova Poseidon",
+    "badgeId": 10,
+    "badgeUrl": "https://media.githubusercontent.com/media/fourjr/bs-assets/master/club_badges/clan_badge_03_03.png",
+    "position": 37,
+    "trophies": 1311861,
+    "membersCount": 99
+  },
+  {
+    "id": {
+      "high": 1,
+      "low": 35027
+    },
+    "tag": "28RYCQC",
+    "name": "Cráneos Púrpura",
+    "badgeId": 8,
+    "badgeUrl": "https://media.githubusercontent.com/media/fourjr/bs-assets/master/club_badges/clan_badge_03_01.png",
+    "position": 38,
+    "trophies": 1309525,
+    "membersCount": 100
+  },
+  {
+    "id": {
+      "high": 0,
+      "low": 217613
+    },
+    "tag": "QYG8298",
+    "name": "Nova Max",
+    "badgeId": 10,
+    "badgeUrl": "https://media.githubusercontent.com/media/fourjr/bs-assets/master/club_badges/clan_badge_03_03.png",
+    "position": 39,
+    "trophies": 1308401,
+    "membersCount": 100
+  },
+  {
+    "id": {
+      "high": 8,
+      "low": 711766
+    },
+    "tag": "2J8C2CGP",
+    "name": "<c4>VoRt2x</c>",
+    "badgeId": 20,
+    "badgeUrl": "https://media.githubusercontent.com/media/fourjr/bs-assets/master/club_badges/clan_badge_01_05.png",
+    "position": 40,
+    "trophies": 1306716,
+    "membersCount": 98
+  },
+  {
+    "id": {
+      "high": 1,
+      "low": 331050
+    },
+    "tag": "C9G22CC",
+    "name": "TribeActivium®️",
+    "badgeId": 23,
+    "badgeUrl": "https://media.githubusercontent.com/media/fourjr/bs-assets/master/club_badges/clan_badge_02_06.png",
+    "position": 41,
+    "trophies": 1305765,
+    "membersCount": 99
+  },
+  {
+    "id": {
+      "high": 1,
+      "low": 1685577
+    },
+    "tag": "P2PPLVVQ",
+    "name": "バトロワ研究室",
+    "badgeId": 14,
+    "badgeUrl": "https://media.githubusercontent.com/media/fourjr/bs-assets/master/club_badges/clan_badge_04_03.png",
+    "position": 42,
+    "trophies": 1305167,
+    "membersCount": 99
+  },
+  {
+    "id": {
+      "high": 2,
+      "low": 557169
+    },
+    "tag": "2PV8UJVP",
+    "name": "Mystic Gaming",
+    "badgeId": 14,
+    "badgeUrl": "https://media.githubusercontent.com/media/fourjr/bs-assets/master/club_badges/clan_badge_04_03.png",
+    "position": 43,
+    "trophies": 1301248,
+    "membersCount": 97
+  },
+  {
+    "id": {
+      "high": 9,
+      "low": 441149
+    },
+    "tag": "20VVJJR9",
+    "name": "ZERØZONE",
+    "badgeId": 7,
+    "badgeUrl": "https://media.githubusercontent.com/media/fourjr/bs-assets/master/club_badges/clan_badge_02_04.png",
+    "position": 44,
+    "trophies": 1300602,
+    "membersCount": 99
+  },
+  {
+    "id": {
+      "high": 0,
+      "low": 1695472
+    },
+    "tag": "P2R0L80G",
+    "name": "Omen Ash",
+    "badgeId": 2,
+    "badgeUrl": "https://media.githubusercontent.com/media/fourjr/bs-assets/master/club_badges/clan_badge_01_03.png",
+    "position": 45,
+    "trophies": 1300109,
+    "membersCount": 97
+  },
+  {
+    "id": {
+      "high": 1,
+      "low": 4277
+    },
+    "tag": "80Q0P2",
+    "name": "Munich Warriors",
+    "badgeId": 3,
+    "badgeUrl": "https://media.githubusercontent.com/media/fourjr/bs-assets/master/club_badges/clan_badge_01_04.png",
+    "position": 46,
+    "trophies": 1296673,
+    "membersCount": 95
+  },
+  {
+    "id": {
+      "high": 0,
+      "low": 24244
+    },
+    "tag": "CQQCGU",
+    "name": "上海 OP Plus",
+    "badgeId": 6,
+    "badgeUrl": "https://media.githubusercontent.com/media/fourjr/bs-assets/master/club_badges/clan_badge_02_03.png",
+    "position": 47,
+    "trophies": 1295862,
+    "membersCount": 99
+  },
+  {
+    "id": {
+      "high": 1,
+      "low": 788079
+    },
+    "tag": "2UC2RYRQ",
+    "name": "x6tence Mx",
+    "badgeId": 16,
+    "badgeUrl": "https://media.githubusercontent.com/media/fourjr/bs-assets/master/club_badges/clan_badge_05_01.png",
+    "position": 48,
+    "trophies": 1294576,
+    "membersCount": 100
+  },
+  {
+    "id": {
+      "high": 0,
+      "low": 1679300
+    },
+    "tag": "P22PRYL0",
+    "name": "Sad Army",
+    "badgeId": 21,
+    "badgeUrl": "https://media.githubusercontent.com/media/fourjr/bs-assets/master/club_badges/clan_badge_01_06.png",
+    "position": 49,
+    "trophies": 1294463,
+    "membersCount": 100
+  },
+  {
+    "id": {
+      "high": 1,
+      "low": 319986
+    },
+    "tag": "JUPPUUR",
+    "name": "ANG",
+    "badgeId": 18,
+    "badgeUrl": "https://media.githubusercontent.com/media/fourjr/bs-assets/master/club_badges/clan_badge_05_03.png",
+    "position": 50,
+    "trophies": 1289675,
+    "membersCount": 99
+  },
+  {
+    "id": {
+      "high": 6,
+      "low": 50627
+    },
+    "tag": "2J2Y92P",
+    "name": "Adulte France",
+    "badgeId": 12,
+    "badgeUrl": "https://media.githubusercontent.com/media/fourjr/bs-assets/master/club_badges/clan_badge_04_01.png",
+    "position": 51,
+    "trophies": 1281197,
+    "membersCount": 99
+  },
+  {
+    "id": {
+      "high": 0,
+      "low": 139357
+    },
+    "tag": "PJPR9PP",
+    "name": "Warrior Unity™",
+    "badgeId": 9,
+    "badgeUrl": "https://media.githubusercontent.com/media/fourjr/bs-assets/master/club_badges/clan_badge_03_02.png",
+    "position": 52,
+    "trophies": 1279176,
+    "membersCount": 97
+  },
+  {
+    "id": {
+      "high": 0,
+      "low": 1116050
+    },
+    "tag": "8RV999VL",
+    "name": "Nova Bears ❄️",
+    "badgeId": 10,
+    "badgeUrl": "https://media.githubusercontent.com/media/fourjr/bs-assets/master/club_badges/clan_badge_03_03.png",
+    "position": 53,
+    "trophies": 1277807,
+    "membersCount": 98
+  },
+  {
+    "id": {
+      "high": 5,
+      "low": 1560863
+    },
+    "tag": "9C0VYU99",
+    "name": "Army Of Spike",
+    "badgeId": 9,
+    "badgeUrl": "https://media.githubusercontent.com/media/fourjr/bs-assets/master/club_badges/clan_badge_03_02.png",
+    "position": 54,
+    "trophies": 1274091,
+    "membersCount": 100
+  },
+  {
+    "id": {
+      "high": 3,
+      "low": 812565
+    },
+    "tag": "2VGJCCYR",
+    "name": "Juba eSports",
+    "badgeId": 13,
+    "badgeUrl": "https://media.githubusercontent.com/media/fourjr/bs-assets/master/club_badges/clan_badge_04_02.png",
+    "position": 55,
+    "trophies": 1268030,
+    "membersCount": 100
+  },
+  {
+    "id": {
+      "high": 1,
+      "low": 1029362
+    },
+    "tag": "8LVVQJCQ",
+    "name": "LOUD",
+    "badgeId": 26,
+    "badgeUrl": "https://media.githubusercontent.com/media/fourjr/bs-assets/master/club_badges/clan_badge_04_05.png",
+    "position": 56,
+    "trophies": 1263785,
+    "membersCount": 99
+  },
+  {
+    "id": {
+      "high": 1,
+      "low": 1330669
+    },
+    "tag": "999YL0R9",
+    "name": "Exenze",
+    "badgeId": 11,
+    "badgeUrl": "https://media.githubusercontent.com/media/fourjr/bs-assets/master/club_badges/clan_badge_03_04.png",
+    "position": 57,
+    "trophies": 1260216,
+    "membersCount": 100
+  },
+  {
+    "id": {
+      "high": 1,
+      "low": 883867
+    },
+    "tag": "880RVUQQ",
+    "name": "Demon Gaming",
+    "badgeId": 2,
+    "badgeUrl": "https://media.githubusercontent.com/media/fourjr/bs-assets/master/club_badges/clan_badge_01_03.png",
+    "position": 58,
+    "trophies": 1259550,
+    "membersCount": 98
+  },
+  {
+    "id": {
+      "high": 6,
+      "low": 1817887
+    },
+    "tag": "PYCP8C0J",
+    "name": "Roro Team",
+    "badgeId": 1,
+    "badgeUrl": "https://media.githubusercontent.com/media/fourjr/bs-assets/master/club_badges/clan_badge_01_02.png",
+    "position": 59,
+    "trophies": 1258596,
+    "membersCount": 98
+  },
+  {
+    "id": {
+      "high": 0,
+      "low": 382624
+    },
+    "tag": "V02JRC8",
+    "name": "Nova Hydra",
+    "badgeId": 10,
+    "badgeUrl": "https://media.githubusercontent.com/media/fourjr/bs-assets/master/club_badges/clan_badge_03_03.png",
+    "position": 60,
+    "trophies": 1258361,
+    "membersCount": 100
+  },
+  {
+    "id": {
+      "high": 0,
+      "low": 413289
+    },
+    "tag": "200J2G0G",
+    "name": "Frost Ambiance",
+    "badgeId": 21,
+    "badgeUrl": "https://media.githubusercontent.com/media/fourjr/bs-assets/master/club_badges/clan_badge_01_06.png",
+    "position": 61,
+    "trophies": 1257110,
+    "membersCount": 100
+  },
+  {
+    "id": {
+      "high": 1,
+      "low": 230730
+    },
+    "tag": "QCCQCGV",
+    "name": "Whiskey Bandits",
+    "badgeId": 13,
+    "badgeUrl": "https://media.githubusercontent.com/media/fourjr/bs-assets/master/club_badges/clan_badge_04_02.png",
+    "position": 62,
+    "trophies": 1251841,
+    "membersCount": 97
+  },
+  {
+    "id": {
+      "high": 1,
+      "low": 362117
+    },
+    "tag": "UPY2Q82",
+    "name": "BRAWLtherapy",
+    "badgeId": 8,
+    "badgeUrl": "https://media.githubusercontent.com/media/fourjr/bs-assets/master/club_badges/clan_badge_03_01.png",
+    "position": 63,
+    "trophies": 1251582,
+    "membersCount": 99
+  },
+  {
+    "id": {
+      "high": 1,
+      "low": 349414
+    },
+    "tag": "CUPLYLR",
+    "name": "Frost Rebellion",
+    "badgeId": 21,
+    "badgeUrl": "https://media.githubusercontent.com/media/fourjr/bs-assets/master/club_badges/clan_badge_01_06.png",
+    "position": 64,
+    "trophies": 1251197,
+    "membersCount": 99
+  },
+  {
+    "id": {
+      "high": 1,
+      "low": 431169
+    },
+    "tag": "20R99RQ9",
+    "name": "Nova DE",
+    "badgeId": 10,
+    "badgeUrl": "https://media.githubusercontent.com/media/fourjr/bs-assets/master/club_badges/clan_badge_03_03.png",
+    "position": 65,
+    "trophies": 1250060,
+    "membersCount": 99
+  },
+  {
+    "id": {
+      "high": 0,
+      "low": 804207
+    },
+    "tag": "2VPC80CL",
+    "name": "WeGamers",
+    "badgeId": 0,
+    "badgeUrl": "https://media.githubusercontent.com/media/fourjr/bs-assets/master/club_badges/clan_badge_01_01.png",
+    "position": 66,
+    "trophies": 1245640,
+    "membersCount": 99
+  },
+  {
+    "id": {
+      "high": 1,
+      "low": 10198
+    },
+    "tag": "PCVYCC",
+    "name": "French Addict's",
+    "badgeId": 17,
+    "badgeUrl": "https://media.githubusercontent.com/media/fourjr/bs-assets/master/club_badges/clan_badge_05_02.png",
+    "position": 67,
+    "trophies": 1244813,
+    "membersCount": 100
+  },
+  {
+    "id": {
+      "high": 1,
+      "low": 405521
+    },
+    "tag": "VC0PU29",
+    "name": "Canon",
+    "badgeId": 9,
+    "badgeUrl": "https://media.githubusercontent.com/media/fourjr/bs-assets/master/club_badges/clan_badge_03_02.png",
+    "position": 68,
+    "trophies": 1240737,
+    "membersCount": 99
+  },
+  {
+    "id": {
+      "high": 7,
+      "low": 114206
+    },
+    "tag": "9UY0C0C",
+    "name": "ADYCTOS",
+    "badgeId": 8,
+    "badgeUrl": "https://media.githubusercontent.com/media/fourjr/bs-assets/master/club_badges/clan_badge_03_01.png",
+    "position": 69,
+    "trophies": 1240006,
+    "membersCount": 100
+  },
+  {
+    "id": {
+      "high": 1,
+      "low": 375886
+    },
+    "tag": "UJUU282",
+    "name": "KOREA",
+    "badgeId": 6,
+    "badgeUrl": "https://media.githubusercontent.com/media/fourjr/bs-assets/master/club_badges/clan_badge_02_03.png",
+    "position": 70,
+    "trophies": 1236017,
+    "membersCount": 100
+  },
+  {
+    "id": {
+      "high": 1,
+      "low": 9194
+    },
+    "tag": "PY9JLV",
+    "name": "Orange Pulp",
+    "badgeId": 16,
+    "badgeUrl": "https://media.githubusercontent.com/media/fourjr/bs-assets/master/club_badges/clan_badge_05_01.png",
+    "position": 71,
+    "trophies": 1233482,
+    "membersCount": 99
+  },
+  {
+    "id": {
+      "high": 0,
+      "low": 2009259
+    },
+    "tag": "PUPYLJP0",
+    "name": "BlueStacks IT",
+    "badgeId": 29,
+    "badgeUrl": "https://media.githubusercontent.com/media/fourjr/bs-assets/master/club_badges/clan_badge_05_06.png",
+    "position": 72,
+    "trophies": 1225573,
+    "membersCount": 99
+  },
+  {
+    "id": {
+      "high": 1,
+      "low": 215438
+    },
+    "tag": "QPQR8YC",
+    "name": "Nova Rey",
+    "badgeId": 10,
+    "badgeUrl": "https://media.githubusercontent.com/media/fourjr/bs-assets/master/club_badges/clan_badge_03_03.png",
+    "position": 73,
+    "trophies": 1225265,
+    "membersCount": 99
+  },
+  {
+    "id": {
+      "high": 0,
+      "low": 340392
+    },
+    "tag": "CG0PRGU",
+    "name": "Tribe Mafia",
+    "badgeId": 23,
+    "badgeUrl": "https://media.githubusercontent.com/media/fourjr/bs-assets/master/club_badges/clan_badge_02_06.png",
+    "position": 74,
+    "trophies": 1224808,
+    "membersCount": 99
+  },
+  {
+    "id": {
+      "high": 0,
+      "low": 1854
+    },
+    "tag": "UPVQJ",
+    "name": "Living Legends",
+    "badgeId": 22,
+    "badgeUrl": "https://media.githubusercontent.com/media/fourjr/bs-assets/master/club_badges/clan_badge_02_05.png",
+    "position": 75,
+    "trophies": 1223748,
+    "membersCount": 100
+  },
+  {
+    "id": {
+      "high": 0,
+      "low": 1075343
+    },
+    "tag": "8GQCVQGU",
+    "name": "QLASH Rea",
+    "badgeId": 21,
+    "badgeUrl": "https://media.githubusercontent.com/media/fourjr/bs-assets/master/club_badges/clan_badge_01_06.png",
+    "position": 76,
+    "trophies": 1223583,
+    "membersCount": 99
+  },
+  {
+    "id": {
+      "high": 0,
+      "low": 2238
+    },
+    "tag": "20UC2L",
+    "name": "SixDots PL®",
+    "badgeId": 5,
+    "badgeUrl": "https://media.githubusercontent.com/media/fourjr/bs-assets/master/club_badges/clan_badge_02_02.png",
+    "position": 77,
+    "trophies": 1220529,
+    "membersCount": 100
+  },
+  {
+    "id": {
+      "high": 0,
+      "low": 357113
+    },
+    "tag": "U2VJRPP",
+    "name": "Tribe Germany",
+    "badgeId": 23,
+    "badgeUrl": "https://media.githubusercontent.com/media/fourjr/bs-assets/master/club_badges/clan_badge_02_06.png",
+    "position": 78,
+    "trophies": 1218390,
+    "membersCount": 98
+  },
+  {
+    "id": {
+      "high": 1,
+      "low": 352284
+    },
+    "tag": "CVRG80R",
+    "name": "Le Cercle",
+    "badgeId": 4,
+    "badgeUrl": "https://media.githubusercontent.com/media/fourjr/bs-assets/master/club_badges/clan_badge_02_01.png",
+    "position": 79,
+    "trophies": 1216724,
+    "membersCount": 97
+  },
+  {
+    "id": {
+      "high": 0,
+      "low": 2064271
+    },
+    "tag": "Y08G20RJ",
+    "name": "Cream Esports",
+    "badgeId": 4,
+    "badgeUrl": "https://media.githubusercontent.com/media/fourjr/bs-assets/master/club_badges/clan_badge_02_01.png",
+    "position": 80,
+    "trophies": 1214757,
+    "membersCount": 100
+  },
+  {
+    "id": {
+      "high": 1,
+      "low": 1252910
+    },
+    "tag": "90GY9QUY",
+    "name": "Omen Valor",
+    "badgeId": 2,
+    "badgeUrl": "https://media.githubusercontent.com/media/fourjr/bs-assets/master/club_badges/clan_badge_01_03.png",
+    "position": 81,
+    "trophies": 1214201,
+    "membersCount": 95
+  },
+  {
+    "id": {
+      "high": 0,
+      "low": 144449
+    },
+    "tag": "PUJGP28",
+    "name": "Brasil Gods",
+    "badgeId": 18,
+    "badgeUrl": "https://media.githubusercontent.com/media/fourjr/bs-assets/master/club_badges/clan_badge_05_03.png",
+    "position": 82,
+    "trophies": 1213568,
+    "membersCount": 100
+  },
+  {
+    "id": {
+      "high": 1,
+      "low": 377742
+    },
+    "tag": "UCC99PY",
+    "name": "BrawlSinQueso",
+    "badgeId": 29,
+    "badgeUrl": "https://media.githubusercontent.com/media/fourjr/bs-assets/master/club_badges/clan_badge_05_06.png",
+    "position": 83,
+    "trophies": 1213454,
+    "membersCount": 97
+  },
+  {
+    "id": {
+      "high": 0,
+      "low": 1798661
+    },
+    "tag": "PY8822Q8",
+    "name": "Omen Bandits",
+    "badgeId": 2,
+    "badgeUrl": "https://media.githubusercontent.com/media/fourjr/bs-assets/master/club_badges/clan_badge_01_03.png",
+    "position": 84,
+    "trophies": 1211231,
+    "membersCount": 97
+  },
+  {
+    "id": {
+      "high": 1,
+      "low": 589809
+    },
+    "tag": "2L0JYUJV",
+    "name": "Cyber Legend",
+    "badgeId": 28,
+    "badgeUrl": "https://media.githubusercontent.com/media/fourjr/bs-assets/master/club_badges/clan_badge_05_05.png",
+    "position": 85,
+    "trophies": 1207356,
+    "membersCount": 98
+  },
+  {
+    "id": {
+      "high": 0,
+      "low": 1623470
+    },
+    "tag": "9V8JGJGG",
+    "name": "Nova Finland",
+    "badgeId": 10,
+    "badgeUrl": "https://media.githubusercontent.com/media/fourjr/bs-assets/master/club_badges/clan_badge_03_03.png",
+    "position": 86,
+    "trophies": 1206836,
+    "membersCount": 94
+  },
+  {
+    "id": {
+      "high": 1,
+      "low": 304135
+    },
+    "tag": "JPJJ2QC",
+    "name": "King Of Victory",
+    "badgeId": 19,
+    "badgeUrl": "https://media.githubusercontent.com/media/fourjr/bs-assets/master/club_badges/clan_badge_05_04.png",
+    "position": 87,
+    "trophies": 1206403,
+    "membersCount": 99
+  },
+  {
+    "id": {
+      "high": 1,
+      "low": 744141
+    },
+    "tag": "2CP8U99C",
+    "name": "Vanstars Asia",
+    "badgeId": 8,
+    "badgeUrl": "https://media.githubusercontent.com/media/fourjr/bs-assets/master/club_badges/clan_badge_03_01.png",
+    "position": 88,
+    "trophies": 1204972,
+    "membersCount": 98
+  },
+  {
+    "id": {
+      "high": 1,
+      "low": 427254
+    },
+    "tag": "20QY8L0R",
+    "name": "LINE YOUTUBE",
+    "badgeId": 19,
+    "badgeUrl": "https://media.githubusercontent.com/media/fourjr/bs-assets/master/club_badges/clan_badge_05_04.png",
+    "position": 89,
+    "trophies": 1204534,
+    "membersCount": 100
+  },
+  {
+    "id": {
+      "high": 0,
+      "low": 293469
+    },
+    "tag": "RVRR0LP",
+    "name": "MAD Lions E.C.",
+    "badgeId": 23,
+    "badgeUrl": "https://media.githubusercontent.com/media/fourjr/bs-assets/master/club_badges/clan_badge_02_06.png",
+    "position": 90,
+    "trophies": 1204213,
+    "membersCount": 97
+  },
+  {
+    "id": {
+      "high": 0,
+      "low": 128082
+    },
+    "tag": "PPVQPJU",
+    "name": "Vanstars风行天下",
+    "badgeId": 8,
+    "badgeUrl": "https://media.githubusercontent.com/media/fourjr/bs-assets/master/club_badges/clan_badge_03_01.png",
+    "position": 91,
+    "trophies": 1203430,
+    "membersCount": 98
+  },
+  {
+    "id": {
+      "high": 7,
+      "low": 1501577
+    },
+    "tag": "9R0JPCLQ",
+    "name": "O.K",
+    "badgeId": 23,
+    "badgeUrl": "https://media.githubusercontent.com/media/fourjr/bs-assets/master/club_badges/clan_badge_02_06.png",
+    "position": 92,
+    "trophies": 1202046,
+    "membersCount": 100
+  },
+  {
+    "id": {
+      "high": 6,
+      "low": 547322
+    },
+    "tag": "2PGQP2G8",
+    "name": "Le Black",
+    "badgeId": 4,
+    "badgeUrl": "https://media.githubusercontent.com/media/fourjr/bs-assets/master/club_badges/clan_badge_02_01.png",
+    "position": 93,
+    "trophies": 1199622,
+    "membersCount": 100
+  },
+  {
+    "id": {
+      "high": 0,
+      "low": 527994
+    },
+    "tag": "29VPLUCL",
+    "name": "Spanish Team™",
+    "badgeId": 7,
+    "badgeUrl": "https://media.githubusercontent.com/media/fourjr/bs-assets/master/club_badges/clan_badge_02_04.png",
+    "position": 94,
+    "trophies": 1197124,
+    "membersCount": 99
+  },
+  {
+    "id": {
+      "high": 0,
+      "low": 206398
+    },
+    "tag": "Q09YC0U",
+    "name": "Boréal ★ MG",
+    "badgeId": 2,
+    "badgeUrl": "https://media.githubusercontent.com/media/fourjr/bs-assets/master/club_badges/clan_badge_01_03.png",
+    "position": 95,
+    "trophies": 1196685,
+    "membersCount": 99
+  },
+  {
+    "id": {
+      "high": 0,
+      "low": 413034
+    },
+    "tag": "200GYJVJ",
+    "name": "Raiju E-sports",
+    "badgeId": 11,
+    "badgeUrl": "https://media.githubusercontent.com/media/fourjr/bs-assets/master/club_badges/clan_badge_03_04.png",
+    "position": 96,
+    "trophies": 1196180,
+    "membersCount": 100
+  },
+  {
+    "id": {
+      "high": 1,
+      "low": 1944235
+    },
+    "tag": "PJ2L8PVC",
+    "name": "x6 Mercury",
+    "badgeId": 16,
+    "badgeUrl": "https://media.githubusercontent.com/media/fourjr/bs-assets/master/club_badges/clan_badge_05_01.png",
+    "position": 97,
+    "trophies": 1194835,
+    "membersCount": 100
+  },
+  {
+    "id": {
+      "high": 1,
+      "low": 1078129
+    },
+    "tag": "8GR8QLLV",
+    "name": "QLASH Zeus",
+    "badgeId": 21,
+    "badgeUrl": "https://media.githubusercontent.com/media/fourjr/bs-assets/master/club_badges/clan_badge_01_06.png",
+    "position": 98,
+    "trophies": 1194551,
+    "membersCount": 99
+  },
+  {
+    "id": {
+      "high": 0,
+      "low": 822250
+    },
+    "tag": "2VVYYY8G",
+    "name": "WeGamers UA",
+    "badgeId": 0,
+    "badgeUrl": "https://media.githubusercontent.com/media/fourjr/bs-assets/master/club_badges/clan_badge_01_01.png",
+    "position": 99,
+    "trophies": 1194066,
+    "membersCount": 100
+  },
+  {
+    "id": {
+      "high": 1,
+      "low": 429266
+    },
+    "tag": "20GPG2VQ",
+    "name": "CLUB きつねJPN",
+    "badgeId": 19,
+    "badgeUrl": "https://media.githubusercontent.com/media/fourjr/bs-assets/master/club_badges/clan_badge_05_04.png",
+    "position": 100,
+    "trophies": 1193010,
+    "membersCount": 98
+  },
+  {
+    "id": {
+      "high": 1,
+      "low": 365683
+    },
+    "tag": "UL0U8JV",
+    "name": "Affective",
+    "badgeId": 6,
+    "badgeUrl": "https://media.githubusercontent.com/media/fourjr/bs-assets/master/club_badges/clan_badge_02_03.png",
+    "position": 101,
+    "trophies": 1192802,
+    "membersCount": 100
+  },
+  {
+    "id": {
+      "high": 6,
+      "low": 25617
+    },
+    "tag": "U8RUVG",
+    "name": "Tennessee Boys",
+    "badgeId": 29,
+    "badgeUrl": "https://media.githubusercontent.com/media/fourjr/bs-assets/master/club_badges/clan_badge_05_06.png",
+    "position": 102,
+    "trophies": 1192274,
+    "membersCount": 99
+  },
+  {
+    "id": {
+      "high": 0,
+      "low": 217719
+    },
+    "tag": "QYGCVRL",
+    "name": "Nova Shadow",
+    "badgeId": 10,
+    "badgeUrl": "https://media.githubusercontent.com/media/fourjr/bs-assets/master/club_badges/clan_badge_03_03.png",
+    "position": 103,
+    "trophies": 1191139,
+    "membersCount": 97
+  },
+  {
+    "id": {
+      "high": 1,
+      "low": 908530
+    },
+    "tag": "88ULPCL2",
+    "name": "Nova Raspada",
+    "badgeId": 10,
+    "badgeUrl": "https://media.githubusercontent.com/media/fourjr/bs-assets/master/club_badges/clan_badge_03_03.png",
+    "position": 104,
+    "trophies": 1190150,
+    "membersCount": 99
+  },
+  {
+    "id": {
+      "high": 1,
+      "low": 191923
+    },
+    "tag": "LQPVPV9",
+    "name": "Wins & Losses",
+    "badgeId": 21,
+    "badgeUrl": "https://media.githubusercontent.com/media/fourjr/bs-assets/master/club_badges/clan_badge_01_06.png",
+    "position": 105,
+    "trophies": 1189554,
+    "membersCount": 98
+  },
+  {
+    "id": {
+      "high": 1,
+      "low": 38305
+    },
+    "tag": "2P99R0Y",
+    "name": "Lo$ Goblino$",
+    "badgeId": 13,
+    "badgeUrl": "https://media.githubusercontent.com/media/fourjr/bs-assets/master/club_badges/clan_badge_04_02.png",
+    "position": 106,
+    "trophies": 1187620,
+    "membersCount": 99
+  },
+  {
+    "id": {
+      "high": 0,
+      "low": 1959012
+    },
+    "tag": "PJGLGVQJ",
+    "name": "AroZami eSports",
+    "badgeId": 29,
+    "badgeUrl": "https://media.githubusercontent.com/media/fourjr/bs-assets/master/club_badges/clan_badge_05_06.png",
+    "position": 107,
+    "trophies": 1186037,
+    "membersCount": 98
+  },
+  {
+    "id": {
+      "high": 1,
+      "low": 195899
+    },
+    "tag": "LR9LP29",
+    "name": "Brawler Század",
+    "badgeId": 26,
+    "badgeUrl": "https://media.githubusercontent.com/media/fourjr/bs-assets/master/club_badges/clan_badge_04_05.png",
+    "position": 108,
+    "trophies": 1185838,
+    "membersCount": 100
+  },
+  {
+    "id": {
+      "high": 1,
+      "low": 332340
+    },
+    "tag": "CP8RLJY",
+    "name": "Nova Asia",
+    "badgeId": 10,
+    "badgeUrl": "https://media.githubusercontent.com/media/fourjr/bs-assets/master/club_badges/clan_badge_03_03.png",
+    "position": 109,
+    "trophies": 1185536,
+    "membersCount": 91
+  },
+  {
+    "id": {
+      "high": 1,
+      "low": 218112
+    },
+    "tag": "QYCLGVC",
+    "name": "Nova Aus",
+    "badgeId": 10,
+    "badgeUrl": "https://media.githubusercontent.com/media/fourjr/bs-assets/master/club_badges/clan_badge_03_03.png",
+    "position": 110,
+    "trophies": 1182758,
+    "membersCount": 99
+  },
+  {
+    "id": {
+      "high": 9,
+      "low": 151480
+    },
+    "tag": "Y82L9LR",
+    "name": "合作射阿姨",
+    "badgeId": 11,
+    "badgeUrl": "https://media.githubusercontent.com/media/fourjr/bs-assets/master/club_badges/clan_badge_03_04.png",
+    "position": 111,
+    "trophies": 1182037,
+    "membersCount": 98
+  },
+  {
+    "id": {
+      "high": 0,
+      "low": 428527
+    },
+    "tag": "20QVR8JP",
+    "name": "Genesis",
+    "badgeId": 29,
+    "badgeUrl": "https://media.githubusercontent.com/media/fourjr/bs-assets/master/club_badges/clan_badge_05_06.png",
+    "position": 112,
+    "trophies": 1181913,
+    "membersCount": 99
+  },
+  {
+    "id": {
+      "high": 0,
+      "low": 409836
+    },
+    "tag": "VV22L00",
+    "name": "RE:BORN 2",
+    "badgeId": 10,
+    "badgeUrl": "https://media.githubusercontent.com/media/fourjr/bs-assets/master/club_badges/clan_badge_03_03.png",
+    "position": 113,
+    "trophies": 1181016,
+    "membersCount": 100
+  },
+  {
+    "id": {
+      "high": 1,
+      "low": 1500466
+    },
+    "tag": "9R08V8PR",
+    "name": "Nova China",
+    "badgeId": 10,
+    "badgeUrl": "https://media.githubusercontent.com/media/fourjr/bs-assets/master/club_badges/clan_badge_03_03.png",
+    "position": 114,
+    "trophies": 1180532,
+    "membersCount": 98
+  },
+  {
+    "id": {
+      "high": 0,
+      "low": 256924
+    },
+    "tag": "GJP2G8U",
+    "name": "Arab Elite",
+    "badgeId": 29,
+    "badgeUrl": "https://media.githubusercontent.com/media/fourjr/bs-assets/master/club_badges/clan_badge_05_06.png",
+    "position": 115,
+    "trophies": 1180284,
+    "membersCount": 100
+  },
+  {
+    "id": {
+      "high": 0,
+      "low": 121134
+    },
+    "tag": "P2R92CJ",
+    "name": "上海 OP Elixir",
+    "badgeId": 6,
+    "badgeUrl": "https://media.githubusercontent.com/media/fourjr/bs-assets/master/club_badges/clan_badge_02_03.png",
+    "position": 116,
+    "trophies": 1179870,
+    "membersCount": 99
+  },
+  {
+    "id": {
+      "high": 0,
+      "low": 1754990
+    },
+    "tag": "P9RY0CCJ",
+    "name": "Aqua eSports",
+    "badgeId": 21,
+    "badgeUrl": "https://media.githubusercontent.com/media/fourjr/bs-assets/master/club_badges/clan_badge_01_06.png",
+    "position": 117,
+    "trophies": 1178370,
+    "membersCount": 95
+  },
+  {
+    "id": {
+      "high": 0,
+      "low": 1427541
+    },
+    "tag": "9LQLVRPU",
+    "name": "Stardust Gaming",
+    "badgeId": 18,
+    "badgeUrl": "https://media.githubusercontent.com/media/fourjr/bs-assets/master/club_badges/clan_badge_05_03.png",
+    "position": 118,
+    "trophies": 1175695,
+    "membersCount": 100
+  },
+  {
+    "id": {
+      "high": 1,
+      "low": 441699
+    },
+    "tag": "2209L0VC",
+    "name": "Sociedad Azteca",
+    "badgeId": 7,
+    "badgeUrl": "https://media.githubusercontent.com/media/fourjr/bs-assets/master/club_badges/clan_badge_02_04.png",
+    "position": 119,
+    "trophies": 1173188,
+    "membersCount": 99
+  },
+  {
+    "id": {
+      "high": 0,
+      "low": 340141
+    },
+    "tag": "CQUR9C8",
+    "name": "Munich Fighters",
+    "badgeId": 3,
+    "badgeUrl": "https://media.githubusercontent.com/media/fourjr/bs-assets/master/club_badges/clan_badge_01_04.png",
+    "position": 120,
+    "trophies": 1172944,
+    "membersCount": 100
+  },
+  {
+    "id": {
+      "high": 0,
+      "low": 136051
+    },
+    "tag": "PGJGC9J",
+    "name": "True North",
+    "badgeId": 6,
+    "badgeUrl": "https://media.githubusercontent.com/media/fourjr/bs-assets/master/club_badges/clan_badge_02_03.png",
+    "position": 121,
+    "trophies": 1171796,
+    "membersCount": 100
+  },
+  {
+    "id": {
+      "high": 1,
+      "low": 11909
+    },
+    "tag": "YRY0GR",
+    "name": "PeruTeamPro",
+    "badgeId": 4,
+    "badgeUrl": "https://media.githubusercontent.com/media/fourjr/bs-assets/master/club_badges/clan_badge_02_01.png",
+    "position": 122,
+    "trophies": 1170888,
+    "membersCount": 100
+  },
+  {
+    "id": {
+      "high": 1,
+      "low": 182094
+    },
+    "tag": "L8RLY0V",
+    "name": "Heal死你",
+    "badgeId": 21,
+    "badgeUrl": "https://media.githubusercontent.com/media/fourjr/bs-assets/master/club_badges/clan_badge_01_06.png",
+    "position": 123,
+    "trophies": 1170801,
+    "membersCount": 92
+  },
+  {
+    "id": {
+      "high": 1,
+      "low": 306271
+    },
+    "tag": "JYJVYL2",
+    "name": "Ferre of Band",
+    "badgeId": 4,
+    "badgeUrl": "https://media.githubusercontent.com/media/fourjr/bs-assets/master/club_badges/clan_badge_02_01.png",
+    "position": 124,
+    "trophies": 1169540,
+    "membersCount": 95
+  },
+  {
+    "id": {
+      "high": 1,
+      "low": 1479731
+    },
+    "tag": "9GPPJRUY",
+    "name": "Team Flying",
+    "badgeId": 2,
+    "badgeUrl": "https://media.githubusercontent.com/media/fourjr/bs-assets/master/club_badges/clan_badge_01_03.png",
+    "position": 125,
+    "trophies": 1168792,
+    "membersCount": 100
+  },
+  {
+    "id": {
+      "high": 1,
+      "low": 387784
+    },
+    "tag": "V8G82YQ",
+    "name": "ブロスタバグ調査団",
+    "badgeId": 2,
+    "badgeUrl": "https://media.githubusercontent.com/media/fourjr/bs-assets/master/club_badges/clan_badge_01_03.png",
+    "position": 126,
+    "trophies": 1168194,
+    "membersCount": 99
+  },
+  {
+    "id": {
+      "high": 6,
+      "low": 21474
+    },
+    "tag": "J92YRU",
+    "name": "Ghost One",
+    "badgeId": 8,
+    "badgeUrl": "https://media.githubusercontent.com/media/fourjr/bs-assets/master/club_badges/clan_badge_03_01.png",
+    "position": 127,
+    "trophies": 1166989,
+    "membersCount": 100
+  },
+  {
+    "id": {
+      "high": 1,
+      "low": 365599
+    },
+    "tag": "UL0PY0V",
+    "name": "Vancity Kings",
+    "badgeId": 0,
+    "badgeUrl": "https://media.githubusercontent.com/media/fourjr/bs-assets/master/club_badges/clan_badge_01_01.png",
+    "position": 128,
+    "trophies": 1166743,
+    "membersCount": 99
+  },
+  {
+    "id": {
+      "high": 9,
+      "low": 1371361
+    },
+    "tag": "9PGJGYL2",
+    "name": "AVION Gaming",
+    "badgeId": 18,
+    "badgeUrl": "https://media.githubusercontent.com/media/fourjr/bs-assets/master/club_badges/clan_badge_05_03.png",
+    "position": 129,
+    "trophies": 1166336,
+    "membersCount": 100
+  },
+  {
+    "id": {
+      "high": 5,
+      "low": 744214
+    },
+    "tag": "2CP9Y0GV",
+    "name": "QLASH Nemesis",
+    "badgeId": 21,
+    "badgeUrl": "https://media.githubusercontent.com/media/fourjr/bs-assets/master/club_badges/clan_badge_01_06.png",
+    "position": 130,
+    "trophies": 1165314,
+    "membersCount": 99
+  },
+  {
+    "id": {
+      "high": 0,
+      "low": 353534
+    },
+    "tag": "U09UJRJ",
+    "name": "Infected",
+    "badgeId": 8,
+    "badgeUrl": "https://media.githubusercontent.com/media/fourjr/bs-assets/master/club_badges/clan_badge_03_01.png",
+    "position": 131,
+    "trophies": 1164470,
+    "membersCount": 98
+  },
+  {
+    "id": {
+      "high": 5,
+      "low": 1579935
+    },
+    "tag": "9CJ0Q8GY",
+    "name": "Team Onyx",
+    "badgeId": 18,
+    "badgeUrl": "https://media.githubusercontent.com/media/fourjr/bs-assets/master/club_badges/clan_badge_05_03.png",
+    "position": 132,
+    "trophies": 1161997,
+    "membersCount": 100
+  },
+  {
+    "id": {
+      "high": 0,
+      "low": 462197
+    },
+    "tag": "22J00YUP",
+    "name": "CeruleanFoxers",
+    "badgeId": 1,
+    "badgeUrl": "https://media.githubusercontent.com/media/fourjr/bs-assets/master/club_badges/clan_badge_01_02.png",
+    "position": 133,
+    "trophies": 1161767,
+    "membersCount": 98
+  },
+  {
+    "id": {
+      "high": 1,
+      "low": 7250
+    },
+    "tag": "9LPYYQ",
+    "name": "The Icy Tribe",
+    "badgeId": 3,
+    "badgeUrl": "https://media.githubusercontent.com/media/fourjr/bs-assets/master/club_badges/clan_badge_01_04.png",
+    "position": 134,
+    "trophies": 1161533,
+    "membersCount": 96
+  },
+  {
+    "id": {
+      "high": 9,
+      "low": 234256
+    },
+    "tag": "QVQ0C0V",
+    "name": "WIZARD GAMING",
+    "badgeId": 16,
+    "badgeUrl": "https://media.githubusercontent.com/media/fourjr/bs-assets/master/club_badges/clan_badge_05_01.png",
+    "position": 135,
+    "trophies": 1160905,
+    "membersCount": 100
+  },
+  {
+    "id": {
+      "high": 1,
+      "low": 1256392
+    },
+    "tag": "90J0LYC9",
+    "name": "BGin Esports",
+    "badgeId": 13,
+    "badgeUrl": "https://media.githubusercontent.com/media/fourjr/bs-assets/master/club_badges/clan_badge_04_02.png",
+    "position": 136,
+    "trophies": 1160772,
+    "membersCount": 99
+  },
+  {
+    "id": {
+      "high": 0,
+      "low": 395178
+    },
+    "tag": "VL2YUU0",
+    "name": "Desires",
+    "badgeId": 25,
+    "badgeUrl": "https://media.githubusercontent.com/media/fourjr/bs-assets/master/club_badges/clan_badge_03_06.png",
+    "position": 137,
+    "trophies": 1157265,
+    "membersCount": 97
+  },
+  {
+    "id": {
+      "high": 6,
+      "low": 352
+    },
+    "tag": "8PCC0",
+    "name": "Бурый Медведь",
+    "badgeId": 6,
+    "badgeUrl": "https://media.githubusercontent.com/media/fourjr/bs-assets/master/club_badges/clan_badge_02_03.png",
+    "position": 138,
+    "trophies": 1157212,
+    "membersCount": 99
+  },
+  {
+    "id": {
+      "high": 0,
+      "low": 434451
+    },
+    "tag": "20JC2U8U",
+    "name": "ユーロ",
+    "badgeId": 18,
+    "badgeUrl": "https://media.githubusercontent.com/media/fourjr/bs-assets/master/club_badges/clan_badge_05_03.png",
+    "position": 139,
+    "trophies": 1156881,
+    "membersCount": 97
+  },
+  {
+    "id": {
+      "high": 1,
+      "low": 219299
+    },
+    "tag": "QLYYYPV",
+    "name": "CyberSport⭐️",
+    "badgeId": 18,
+    "badgeUrl": "https://media.githubusercontent.com/media/fourjr/bs-assets/master/club_badges/clan_badge_05_03.png",
+    "position": 140,
+    "trophies": 1156602,
+    "membersCount": 96
+  },
+  {
+    "id": {
+      "high": 9,
+      "low": 663353
+    },
+    "tag": "2GQJQ8P2",
+    "name": "The Last Rain™",
+    "badgeId": 11,
+    "badgeUrl": "https://media.githubusercontent.com/media/fourjr/bs-assets/master/club_badges/clan_badge_03_04.png",
+    "position": 141,
+    "trophies": 1155936,
+    "membersCount": 99
+  },
+  {
+    "id": {
+      "high": 1,
+      "low": 1892756
+    },
+    "tag": "PGPV2R2Q",
+    "name": "Stardust Royals",
+    "badgeId": 18,
+    "badgeUrl": "https://media.githubusercontent.com/media/fourjr/bs-assets/master/club_badges/clan_badge_05_03.png",
+    "position": 142,
+    "trophies": 1155522,
+    "membersCount": 99
+  },
+  {
+    "id": {
+      "high": 0,
+      "low": 2340756
+    },
+    "tag": "YRG8QQVL",
+    "name": "Tribe Poland",
+    "badgeId": 7,
+    "badgeUrl": "https://media.githubusercontent.com/media/fourjr/bs-assets/master/club_badges/clan_badge_02_04.png",
+    "position": 143,
+    "trophies": 1154890,
+    "membersCount": 97
+  },
+  {
+    "id": {
+      "high": 0,
+      "low": 1108522
+    },
+    "tag": "8RRR0VLG",
+    "name": "Frost Spartans",
+    "badgeId": 21,
+    "badgeUrl": "https://media.githubusercontent.com/media/fourjr/bs-assets/master/club_badges/clan_badge_01_06.png",
+    "position": 144,
+    "trophies": 1154091,
+    "membersCount": 100
+  },
+  {
+    "id": {
+      "high": 0,
+      "low": 228712
+    },
+    "tag": "QJU2QUP",
+    "name": "⚔VÏKÏNGÖS⚔",
+    "badgeId": 5,
+    "badgeUrl": "https://media.githubusercontent.com/media/fourjr/bs-assets/master/club_badges/clan_badge_02_02.png",
+    "position": 145,
+    "trophies": 1153928,
+    "membersCount": 100
+  },
+  {
+    "id": {
+      "high": 0,
+      "low": 460615
+    },
+    "tag": "22R9LCGP",
+    "name": "Old Man Gamers",
+    "badgeId": 29,
+    "badgeUrl": "https://media.githubusercontent.com/media/fourjr/bs-assets/master/club_badges/clan_badge_05_06.png",
+    "position": 146,
+    "trophies": 1153923,
+    "membersCount": 93
+  },
+  {
+    "id": {
+      "high": 0,
+      "low": 292663
+    },
+    "tag": "RVP9CJ0",
+    "name": "HK,BAND",
+    "badgeId": 13,
+    "badgeUrl": "https://media.githubusercontent.com/media/fourjr/bs-assets/master/club_badges/clan_badge_04_02.png",
+    "position": 147,
+    "trophies": 1149244,
+    "membersCount": 99
+  },
+  {
+    "id": {
+      "high": 1,
+      "low": 16437
+    },
+    "tag": "QCQLJY",
+    "name": "Dark Warriors",
+    "badgeId": 21,
+    "badgeUrl": "https://media.githubusercontent.com/media/fourjr/bs-assets/master/club_badges/clan_badge_01_06.png",
+    "position": 148,
+    "trophies": 1147435,
+    "membersCount": 100
+  },
+  {
+    "id": {
+      "high": 0,
+      "low": 293179
+    },
+    "tag": "RVQRVRL",
+    "name": "BulgarianNoobs",
+    "badgeId": 8,
+    "badgeUrl": "https://media.githubusercontent.com/media/fourjr/bs-assets/master/club_badges/clan_badge_03_01.png",
+    "position": 149,
+    "trophies": 1146006,
+    "membersCount": 100
+  },
+  {
+    "id": {
+      "high": 1,
+      "low": 2
+    },
+    "tag": "8GR",
+    "name": "Panda Scheme",
+    "badgeId": 12,
+    "badgeUrl": "https://media.githubusercontent.com/media/fourjr/bs-assets/master/club_badges/clan_badge_04_01.png",
+    "position": 150,
+    "trophies": 1144847,
+    "membersCount": 100
+  },
+  {
+    "id": {
+      "high": 1,
+      "low": 1337639
+    },
+    "tag": "99LRUPPR",
+    "name": "Orange Soda",
+    "badgeId": 16,
+    "badgeUrl": "https://media.githubusercontent.com/media/fourjr/bs-assets/master/club_badges/clan_badge_05_01.png",
+    "position": 151,
+    "trophies": 1143832,
+    "membersCount": 95
+  },
+  {
+    "id": {
+      "high": 0,
+      "low": 2096316
+    },
+    "tag": "Y29CGRYL",
+    "name": "-The Dice-",
+    "badgeId": 28,
+    "badgeUrl": "https://media.githubusercontent.com/media/fourjr/bs-assets/master/club_badges/clan_badge_05_05.png",
+    "position": 152,
+    "trophies": 1143444,
+    "membersCount": 100
+  },
+  {
+    "id": {
+      "high": 0,
+      "low": 1565694
+    },
+    "tag": "9C99GG28",
+    "name": "BakS GanG",
+    "badgeId": 23,
+    "badgeUrl": "https://media.githubusercontent.com/media/fourjr/bs-assets/master/club_badges/clan_badge_02_06.png",
+    "position": 153,
+    "trophies": 1143163,
+    "membersCount": 97
+  },
+  {
+    "id": {
+      "high": 0,
+      "low": 318042
+    },
+    "tag": "JCYYQC8",
+    "name": "Oops, Sorry!",
+    "badgeId": 23,
+    "badgeUrl": "https://media.githubusercontent.com/media/fourjr/bs-assets/master/club_badges/clan_badge_02_06.png",
+    "position": 154,
+    "trophies": 1142023,
+    "membersCount": 97
+  },
+  {
+    "id": {
+      "high": 1,
+      "low": 216651
+    },
+    "tag": "QY2JPJY",
+    "name": "BRAWLGUERRE",
+    "badgeId": 12,
+    "badgeUrl": "https://media.githubusercontent.com/media/fourjr/bs-assets/master/club_badges/clan_badge_04_01.png",
+    "position": 155,
+    "trophies": 1141153,
+    "membersCount": 99
+  },
+  {
+    "id": {
+      "high": 1,
+      "low": 294662
+    },
+    "tag": "J09GPR9",
+    "name": "Nova IRAN",
+    "badgeId": 10,
+    "badgeUrl": "https://media.githubusercontent.com/media/fourjr/bs-assets/master/club_badges/clan_badge_03_03.png",
+    "position": 156,
+    "trophies": 1140353,
+    "membersCount": 97
+  },
+  {
+    "id": {
+      "high": 0,
+      "low": 1365704
+    },
+    "tag": "9PL0UGR8",
+    "name": "Mystic Crown",
+    "badgeId": 14,
+    "badgeUrl": "https://media.githubusercontent.com/media/fourjr/bs-assets/master/club_badges/clan_badge_04_03.png",
+    "position": 157,
+    "trophies": 1139883,
+    "membersCount": 100
+  },
+  {
+    "id": {
+      "high": 0,
+      "low": 998713
+    },
+    "tag": "8YVYPYLG",
+    "name": "Mystic Rush",
+    "badgeId": 14,
+    "badgeUrl": "https://media.githubusercontent.com/media/fourjr/bs-assets/master/club_badges/clan_badge_04_03.png",
+    "position": 158,
+    "trophies": 1138350,
+    "membersCount": 94
+  },
+  {
+    "id": {
+      "high": 0,
+      "low": 824953
+    },
+    "tag": "800RYQGU",
+    "name": "Liquid Life",
+    "badgeId": 21,
+    "badgeUrl": "https://media.githubusercontent.com/media/fourjr/bs-assets/master/club_badges/clan_badge_01_06.png",
+    "position": 159,
+    "trophies": 1138037,
+    "membersCount": 100
+  },
+  {
+    "id": {
+      "high": 1,
+      "low": 185641
+    },
+    "tag": "LPY29UY",
+    "name": "Activium III",
+    "badgeId": 7,
+    "badgeUrl": "https://media.githubusercontent.com/media/fourjr/bs-assets/master/club_badges/clan_badge_02_04.png",
+    "position": 160,
+    "trophies": 1136603,
+    "membersCount": 99
+  },
+  {
+    "id": {
+      "high": 1,
+      "low": 751316
+    },
+    "tag": "2CQGRGRC",
+    "name": "Adulte France B",
+    "badgeId": 12,
+    "badgeUrl": "https://media.githubusercontent.com/media/fourjr/bs-assets/master/club_badges/clan_badge_04_01.png",
+    "position": 161,
+    "trophies": 1135300,
+    "membersCount": 99
+  },
+  {
+    "id": {
+      "high": 0,
+      "low": 410505
+    },
+    "tag": "VVYQCC8",
+    "name": "Tribe Swiss",
+    "badgeId": 7,
+    "badgeUrl": "https://media.githubusercontent.com/media/fourjr/bs-assets/master/club_badges/clan_badge_02_04.png",
+    "position": 162,
+    "trophies": 1134566,
+    "membersCount": 99
+  },
+  {
+    "id": {
+      "high": 8,
+      "low": 418325
+    },
+    "tag": "2092RYJ0",
+    "name": "Team MoOnLiGhT",
+    "badgeId": 10,
+    "badgeUrl": "https://media.githubusercontent.com/media/fourjr/bs-assets/master/club_badges/clan_badge_03_03.png",
+    "position": 163,
+    "trophies": 1134452,
+    "membersCount": 99
+  },
+  {
+    "id": {
+      "high": 1,
+      "low": 217573
+    },
+    "tag": "QYQUPVC",
+    "name": "Nova Prime",
+    "badgeId": 10,
+    "badgeUrl": "https://media.githubusercontent.com/media/fourjr/bs-assets/master/club_badges/clan_badge_03_03.png",
+    "position": 164,
+    "trophies": 1134415,
+    "membersCount": 93
+  },
+  {
+    "id": {
+      "high": 1,
+      "low": 715942
+    },
+    "tag": "2JPJVYUV",
+    "name": "Nova Singapore",
+    "badgeId": 10,
+    "badgeUrl": "https://media.githubusercontent.com/media/fourjr/bs-assets/master/club_badges/clan_badge_03_03.png",
+    "position": 165,
+    "trophies": 1134312,
+    "membersCount": 97
+  },
+  {
+    "id": {
+      "high": 1,
+      "low": 2316635
+    },
+    "tag": "YGJRC8VC",
+    "name": "LA Gods",
+    "badgeId": 14,
+    "badgeUrl": "https://media.githubusercontent.com/media/fourjr/bs-assets/master/club_badges/clan_badge_04_03.png",
+    "position": 166,
+    "trophies": 1132455,
+    "membersCount": 96
+  },
+  {
+    "id": {
+      "high": 7,
+      "low": 176009
+    },
+    "tag": "YVJURPC",
+    "name": "Brawl Chile",
+    "badgeId": 5,
+    "badgeUrl": "https://media.githubusercontent.com/media/fourjr/bs-assets/master/club_badges/clan_badge_02_02.png",
+    "position": 167,
+    "trophies": 1132189,
+    "membersCount": 100
+  },
+  {
+    "id": {
+      "high": 2,
+      "low": 21612
+    },
+    "tag": "JP09V0",
+    "name": "PLAY",
+    "badgeId": 29,
+    "badgeUrl": "https://media.githubusercontent.com/media/fourjr/bs-assets/master/club_badges/clan_badge_05_06.png",
+    "position": 168,
+    "trophies": 1131723,
+    "membersCount": 97
+  },
+  {
+    "id": {
+      "high": 0,
+      "low": 1264285
+    },
+    "tag": "90VC0C0P",
+    "name": "Omen Abyss",
+    "badgeId": 2,
+    "badgeUrl": "https://media.githubusercontent.com/media/fourjr/bs-assets/master/club_badges/clan_badge_01_03.png",
+    "position": 169,
+    "trophies": 1131108,
+    "membersCount": 95
+  },
+  {
+    "id": {
+      "high": 1,
+      "low": 353955
+    },
+    "tag": "U0LJ0G2",
+    "name": "SpikE~Sports",
+    "badgeId": 13,
+    "badgeUrl": "https://media.githubusercontent.com/media/fourjr/bs-assets/master/club_badges/clan_badge_04_02.png",
+    "position": 170,
+    "trophies": 1130547,
+    "membersCount": 99
+  },
+  {
+    "id": {
+      "high": 0,
+      "low": 727949
+    },
+    "tag": "2JJLVGQL",
+    "name": "Nova Belgium",
+    "badgeId": 10,
+    "badgeUrl": "https://media.githubusercontent.com/media/fourjr/bs-assets/master/club_badges/clan_badge_03_03.png",
+    "position": 171,
+    "trophies": 1128789,
+    "membersCount": 98
+  },
+  {
+    "id": {
+      "high": 6,
+      "low": 1028214
+    },
+    "tag": "8LVYURYU",
+    "name": "SilencerAs™️",
+    "badgeId": 23,
+    "badgeUrl": "https://media.githubusercontent.com/media/fourjr/bs-assets/master/club_badges/clan_badge_02_06.png",
+    "position": 172,
+    "trophies": 1128033,
+    "membersCount": 100
+  },
+  {
+    "id": {
+      "high": 0,
+      "low": 593656
+    },
+    "tag": "2L8G0CL0",
+    "name": "Depire_Empire",
+    "badgeId": 3,
+    "badgeUrl": "https://media.githubusercontent.com/media/fourjr/bs-assets/master/club_badges/clan_badge_01_04.png",
+    "position": 173,
+    "trophies": 1125940,
+    "membersCount": 100
+  },
+  {
+    "id": {
+      "high": 0,
+      "low": 513552
+    },
+    "tag": "29LL9QC8",
+    "name": "CometaTeam",
+    "badgeId": 18,
+    "badgeUrl": "https://media.githubusercontent.com/media/fourjr/bs-assets/master/club_badges/clan_badge_05_03.png",
+    "position": 174,
+    "trophies": 1125676,
+    "membersCount": 100
+  },
+  {
+    "id": {
+      "high": 0,
+      "low": 434121
+    },
+    "tag": "20JGV28G",
+    "name": "SHAMPANOV",
+    "badgeId": 23,
+    "badgeUrl": "https://media.githubusercontent.com/media/fourjr/bs-assets/master/club_badges/clan_badge_02_06.png",
+    "position": 175,
+    "trophies": 1124453,
+    "membersCount": 97
+  },
+  {
+    "id": {
+      "high": 1,
+      "low": 208
+    },
+    "tag": "2YYRQ",
+    "name": "Team Nery",
+    "badgeId": 11,
+    "badgeUrl": "https://media.githubusercontent.com/media/fourjr/bs-assets/master/club_badges/clan_badge_03_04.png",
+    "position": 176,
+    "trophies": 1123878,
+    "membersCount": 100
+  },
+  {
+    "id": {
+      "high": 7,
+      "low": 680563
+    },
+    "tag": "2R2V8JR2",
+    "name": "YBJ",
+    "badgeId": 27,
+    "badgeUrl": "https://media.githubusercontent.com/media/fourjr/bs-assets/master/club_badges/clan_badge_04_06.png",
+    "position": 177,
+    "trophies": 1122560,
+    "membersCount": 100
+  },
+  {
+    "id": {
+      "high": 1,
+      "low": 1344497
+    },
+    "tag": "99RVG2J2",
+    "name": "Gnostyde eSport",
+    "badgeId": 4,
+    "badgeUrl": "https://media.githubusercontent.com/media/fourjr/bs-assets/master/club_badges/clan_badge_02_01.png",
+    "position": 178,
+    "trophies": 1121215,
+    "membersCount": 100
+  },
+  {
+    "id": {
+      "high": 0,
+      "low": 17809
+    },
+    "tag": "GLRLJP",
+    "name": "Шайтаны",
+    "badgeId": 5,
+    "badgeUrl": "https://media.githubusercontent.com/media/fourjr/bs-assets/master/club_badges/clan_badge_02_02.png",
+    "position": 179,
+    "trophies": 1120803,
+    "membersCount": 98
+  },
+  {
+    "id": {
+      "high": 0,
+      "low": 316969
+    },
+    "tag": "JJU9LPG",
+    "name": "Tribe Israel",
+    "badgeId": 23,
+    "badgeUrl": "https://media.githubusercontent.com/media/fourjr/bs-assets/master/club_badges/clan_badge_02_06.png",
+    "position": 180,
+    "trophies": 1120296,
+    "membersCount": 98
+  },
+  {
+    "id": {
+      "high": 1,
+      "low": 1324673
+    },
+    "tag": "990QLR82",
+    "name": "Serpents™",
+    "badgeId": 15,
+    "badgeUrl": "https://media.githubusercontent.com/media/fourjr/bs-assets/master/club_badges/clan_badge_04_04.png",
+    "position": 181,
+    "trophies": 1119963,
+    "membersCount": 95
+  },
+  {
+    "id": {
+      "high": 0,
+      "low": 756731
+    },
+    "tag": "2CJ8JCPU",
+    "name": "Nova Turkey",
+    "badgeId": 10,
+    "badgeUrl": "https://media.githubusercontent.com/media/fourjr/bs-assets/master/club_badges/clan_badge_03_03.png",
+    "position": 182,
+    "trophies": 1119487,
+    "membersCount": 97
+  },
+  {
+    "id": {
+      "high": 0,
+      "low": 827919
+    },
+    "tag": "808289GP",
+    "name": "WeGamers Citrus",
+    "badgeId": 0,
+    "badgeUrl": "https://media.githubusercontent.com/media/fourjr/bs-assets/master/club_badges/clan_badge_01_01.png",
+    "position": 183,
+    "trophies": 1118510,
+    "membersCount": 100
+  },
+  {
+    "id": {
+      "high": 0,
+      "low": 384038
+    },
+    "tag": "V0C8GR8",
+    "name": "Nova Portugal",
+    "badgeId": 10,
+    "badgeUrl": "https://media.githubusercontent.com/media/fourjr/bs-assets/master/club_badges/clan_badge_03_03.png",
+    "position": 184,
+    "trophies": 1117876,
+    "membersCount": 99
+  },
+  {
+    "id": {
+      "high": 1,
+      "low": 408660
+    },
+    "tag": "VUQ9J02",
+    "name": "Team Solid",
+    "badgeId": 23,
+    "badgeUrl": "https://media.githubusercontent.com/media/fourjr/bs-assets/master/club_badges/clan_badge_02_06.png",
+    "position": 185,
+    "trophies": 1117570,
+    "membersCount": 100
+  },
+  {
+    "id": {
+      "high": 1,
+      "low": 2271074
+    },
+    "tag": "YQ908GJY",
+    "name": "IX Venus",
+    "badgeId": 21,
+    "badgeUrl": "https://media.githubusercontent.com/media/fourjr/bs-assets/master/club_badges/clan_badge_01_06.png",
+    "position": 186,
+    "trophies": 1116957,
+    "membersCount": 98
+  },
+  {
+    "id": {
+      "high": 0,
+      "low": 531571
+    },
+    "tag": "2P20PGCL",
+    "name": "Nova Titans",
+    "badgeId": 10,
+    "badgeUrl": "https://media.githubusercontent.com/media/fourjr/bs-assets/master/club_badges/clan_badge_03_03.png",
+    "position": 187,
+    "trophies": 1116725,
+    "membersCount": 97
+  },
+  {
+    "id": {
+      "high": 7,
+      "low": 1747620
+    },
+    "tag": "P9YCV9JQ",
+    "name": "Emperiial",
+    "badgeId": 21,
+    "badgeUrl": "https://media.githubusercontent.com/media/fourjr/bs-assets/master/club_badges/clan_badge_01_06.png",
+    "position": 188,
+    "trophies": 1116072,
+    "membersCount": 100
+  },
+  {
+    "id": {
+      "high": 0,
+      "low": 346190
+    },
+    "tag": "CJJVGQL",
+    "name": "Hea死你",
+    "badgeId": 23,
+    "badgeUrl": "https://media.githubusercontent.com/media/fourjr/bs-assets/master/club_badges/clan_badge_02_06.png",
+    "position": 189,
+    "trophies": 1115633,
+    "membersCount": 98
+  },
+  {
+    "id": {
+      "high": 0,
+      "low": 1462424
+    },
+    "tag": "9QJ2L0CL",
+    "name": "Beast mode on!",
+    "badgeId": 17,
+    "badgeUrl": "https://media.githubusercontent.com/media/fourjr/bs-assets/master/club_badges/clan_badge_05_02.png",
+    "position": 190,
+    "trophies": 1111507,
+    "membersCount": 100
+  },
+  {
+    "id": {
+      "high": 0,
+      "low": 230339
+    },
+    "tag": "QCGVPV8",
+    "name": "Barrel Bandits",
+    "badgeId": 13,
+    "badgeUrl": "https://media.githubusercontent.com/media/fourjr/bs-assets/master/club_badges/clan_badge_04_02.png",
+    "position": 191,
+    "trophies": 1111230,
+    "membersCount": 100
+  },
+  {
+    "id": {
+      "high": 0,
+      "low": 335739
+    },
+    "tag": "CYCPG9L",
+    "name": "Holdik Elite",
+    "badgeId": 27,
+    "badgeUrl": "https://media.githubusercontent.com/media/fourjr/bs-assets/master/club_badges/clan_badge_04_06.png",
+    "position": 192,
+    "trophies": 1108835,
+    "membersCount": 100
+  },
+  {
+    "id": {
+      "high": 0,
+      "low": 9423
+    },
+    "tag": "PLC2GP",
+    "name": "México eSports",
+    "badgeId": 13,
+    "badgeUrl": "https://media.githubusercontent.com/media/fourjr/bs-assets/master/club_badges/clan_badge_04_02.png",
+    "position": 193,
+    "trophies": 1108342,
+    "membersCount": 99
+  },
+  {
+    "id": {
+      "high": 0,
+      "low": 759415
+    },
+    "tag": "2CCLR8VJ",
+    "name": "Tribe Chile",
+    "badgeId": 23,
+    "badgeUrl": "https://media.githubusercontent.com/media/fourjr/bs-assets/master/club_badges/clan_badge_02_06.png",
+    "position": 194,
+    "trophies": 1108293,
+    "membersCount": 100
+  },
+  {
+    "id": {
+      "high": 0,
+      "low": 31750
+    },
+    "tag": "222G2YL",
+    "name": "l'As de Trêfle",
+    "badgeId": 23,
+    "badgeUrl": "https://media.githubusercontent.com/media/fourjr/bs-assets/master/club_badges/clan_badge_02_06.png",
+    "position": 195,
+    "trophies": 1108052,
+    "membersCount": 99
+  },
+  {
+    "id": {
+      "high": 0,
+      "low": 11503
+    },
+    "tag": "YLR8PG",
+    "name": "Catalan Legends",
+    "badgeId": 18,
+    "badgeUrl": "https://media.githubusercontent.com/media/fourjr/bs-assets/master/club_badges/clan_badge_05_03.png",
+    "position": 196,
+    "trophies": 1107537,
+    "membersCount": 97
+  },
+  {
+    "id": {
+      "high": 0,
+      "low": 450094
+    },
+    "tag": "22P9Y9UP",
+    "name": "ИНКВИЗИТОРЫ",
+    "badgeId": 23,
+    "badgeUrl": "https://media.githubusercontent.com/media/fourjr/bs-assets/master/club_badges/clan_badge_02_06.png",
+    "position": 197,
+    "trophies": 1106517,
+    "membersCount": 99
+  },
+  {
+    "id": {
+      "high": 0,
+      "low": 483608
+    },
+    "tag": "28L8RV9J",
+    "name": "貓貓要摸摸",
+    "badgeId": 18,
+    "badgeUrl": "https://media.githubusercontent.com/media/fourjr/bs-assets/master/club_badges/clan_badge_05_03.png",
+    "position": 198,
+    "trophies": 1106430,
+    "membersCount": 96
+  },
+  {
+    "id": {
+      "high": 1,
+      "low": 9024
+    },
+    "tag": "PP2ULY",
+    "name": "UNITS",
+    "badgeId": 3,
+    "badgeUrl": "https://media.githubusercontent.com/media/fourjr/bs-assets/master/club_badges/clan_badge_01_04.png",
+    "position": 199,
+    "trophies": 1106412,
+    "membersCount": 99
+  },
+  {
+    "id": {
+      "high": 1,
+      "low": 220808
+    },
+    "tag": "QQ2L8P2",
+    "name": "Activium IV",
+    "badgeId": 7,
+    "badgeUrl": "https://media.githubusercontent.com/media/fourjr/bs-assets/master/club_badges/clan_badge_02_04.png",
+    "position": 200,
+    "trophies": 1106064,
+    "membersCount": 100
+  }
+]

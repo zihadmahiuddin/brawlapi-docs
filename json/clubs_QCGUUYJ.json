@@ -1,0 +1,1419 @@
+{
+  "tag": "QCGUUYJ",
+  "id": {
+    "high": 0,
+    "low": 230334
+  },
+  "name": "Boom Bandits",
+  "region": "US",
+  "badgeId": 13,
+  "badgeUrl": "https://media.githubusercontent.com/media/fourjr/bs-assets/master/club_badges/clan_badge_04_02.png",
+  "status": "Invite Only",
+  "membersCount": 100,
+  "onlineMembers": 1,
+  "trophies": 950499,
+  "requiredTrophies": 8000,
+  "description": "Bandit Family 👑 Cactus 🌵 Whiskey 🥃 Barrel 🛢 Boom 💥 Scrappy 🔧 YT: Lex & Kairos ❤️ Discord: lexbrawl & kairos ",
+  "members": [
+    {
+      "id": {
+        "high": 0,
+        "low": 62194
+      },
+      "tag": "82GLPVJ",
+      "name": "❄Coffee ❄コーヒー",
+      "role": "Vice President",
+      "trophies": 13712,
+      "onlineLessThanOneHourAgo": true,
+      "avatarId": 28000007,
+      "nameColorCode": "1BA5F5",
+      "avatarUrl": "https://media.githubusercontent.com/media/fourjr/bs-assets/master/player_icons/28000007.png"
+    },
+    {
+      "id": {
+        "high": 1,
+        "low": 14588
+      },
+      "tag": "LV8VJ2",
+      "name": "Bruv",
+      "role": "Vice President",
+      "trophies": 13394,
+      "onlineLessThanOneHourAgo": true,
+      "avatarId": 28000017,
+      "nameColorCode": "FF8AFB",
+      "avatarUrl": "https://media.githubusercontent.com/media/fourjr/bs-assets/master/player_icons/28000017.png"
+    },
+    {
+      "id": {
+        "high": 1,
+        "low": 6121859
+      },
+      "tag": "20U2VYQLR",
+      "name": "Shiv",
+      "role": "Senior",
+      "trophies": 13142,
+      "onlineLessThanOneHourAgo": true,
+      "avatarId": 28000014,
+      "nameColorCode": "F9C908",
+      "avatarUrl": "https://media.githubusercontent.com/media/fourjr/bs-assets/master/player_icons/28000014.png"
+    },
+    {
+      "id": {
+        "high": 0,
+        "low": 95840
+      },
+      "tag": "99GRPJU",
+      "name": "SirKern",
+      "role": "Senior",
+      "trophies": 12907,
+      "onlineLessThanOneHourAgo": true,
+      "avatarId": 28000011,
+      "nameColorCode": "1BA5F5",
+      "avatarUrl": "https://media.githubusercontent.com/media/fourjr/bs-assets/master/player_icons/28000011.png"
+    },
+    {
+      "id": {
+        "high": 0,
+        "low": 54286
+      },
+      "tag": "2CCJG8P",
+      "name": "Noah",
+      "role": "Member",
+      "trophies": 12863,
+      "onlineLessThanOneHourAgo": true,
+      "avatarId": 28000017,
+      "nameColorCode": "FFFFFF",
+      "avatarUrl": "https://media.githubusercontent.com/media/fourjr/bs-assets/master/player_icons/28000017.png"
+    },
+    {
+      "id": {
+        "high": 1,
+        "low": 3954741
+      },
+      "tag": "RGLYVL02",
+      "name": "Ultra XD",
+      "role": "Senior",
+      "trophies": 12813,
+      "onlineLessThanOneHourAgo": true,
+      "avatarId": 28000013,
+      "nameColorCode": "1BA5F5",
+      "avatarUrl": "https://media.githubusercontent.com/media/fourjr/bs-assets/master/player_icons/28000013.png"
+    },
+    {
+      "id": {
+        "high": 0,
+        "low": 3822983
+      },
+      "tag": "R9VRV2UU",
+      "name": "Josh",
+      "role": "Member",
+      "trophies": 12792,
+      "onlineLessThanOneHourAgo": true,
+      "avatarId": 28000042,
+      "nameColorCode": "4DDBA2",
+      "avatarUrl": "https://media.githubusercontent.com/media/fourjr/bs-assets/master/player_icons/28000042.png"
+    },
+    {
+      "id": {
+        "high": 1,
+        "low": 736
+      },
+      "tag": "PURPY",
+      "name": "Wrath",
+      "role": "Member",
+      "trophies": 12711,
+      "onlineLessThanOneHourAgo": true,
+      "avatarId": 28000041,
+      "nameColorCode": "F9C908",
+      "avatarUrl": "https://media.githubusercontent.com/media/fourjr/bs-assets/master/player_icons/28000041.png"
+    },
+    {
+      "id": {
+        "high": 1,
+        "low": 51144
+      },
+      "tag": "2JPCLPR",
+      "name": "JamBerge",
+      "role": "Member",
+      "trophies": 12663,
+      "onlineLessThanOneHourAgo": true,
+      "avatarId": 28000024,
+      "nameColorCode": "F9C908",
+      "avatarUrl": "https://media.githubusercontent.com/media/fourjr/bs-assets/master/player_icons/28000024.png"
+    },
+    {
+      "id": {
+        "high": 1,
+        "low": 543674
+      },
+      "tag": "2PLJVJCQ",
+      "name": "Despotic 忍ぶ",
+      "role": "Senior",
+      "trophies": 12490,
+      "onlineLessThanOneHourAgo": true,
+      "avatarId": 28000022,
+      "nameColorCode": "FFFFFF",
+      "avatarUrl": "https://media.githubusercontent.com/media/fourjr/bs-assets/master/player_icons/28000022.png"
+    },
+    {
+      "id": {
+        "high": 1,
+        "low": 1061852
+      },
+      "tag": "8G2L0UJY",
+      "name": "Zeus999",
+      "role": "Member",
+      "trophies": 11599,
+      "onlineLessThanOneHourAgo": true,
+      "avatarId": 28000032,
+      "nameColorCode": "FFFFFF",
+      "avatarUrl": "https://media.githubusercontent.com/media/fourjr/bs-assets/master/player_icons/28000032.png"
+    },
+    {
+      "id": {
+        "high": 0,
+        "low": 1220851
+      },
+      "tag": "8VQ2GGUG",
+      "name": "SteveCGaming",
+      "role": "Senior",
+      "trophies": 11495,
+      "onlineLessThanOneHourAgo": true,
+      "avatarId": 28000000,
+      "nameColorCode": "FFFFFF",
+      "avatarUrl": "https://media.githubusercontent.com/media/fourjr/bs-assets/master/player_icons/28000000.png"
+    },
+    {
+      "id": {
+        "high": 1,
+        "low": 356449
+      },
+      "tag": "U2RPJ0R",
+      "name": "Aaron",
+      "role": "Member",
+      "trophies": 11461,
+      "onlineLessThanOneHourAgo": true,
+      "avatarId": 28000016,
+      "nameColorCode": "A8E132",
+      "avatarUrl": "https://media.githubusercontent.com/media/fourjr/bs-assets/master/player_icons/28000016.png"
+    },
+    {
+      "id": {
+        "high": 2,
+        "low": 478968
+      },
+      "tag": "289VC0U8",
+      "name": "Gooseman",
+      "role": "Member",
+      "trophies": 11333,
+      "onlineLessThanOneHourAgo": true,
+      "avatarId": 28000016,
+      "nameColorCode": "1BA5F5",
+      "avatarUrl": "https://media.githubusercontent.com/media/fourjr/bs-assets/master/player_icons/28000016.png"
+    },
+    {
+      "id": {
+        "high": 0,
+        "low": 3587397
+      },
+      "tag": "GRVG09JG",
+      "name": "CoolUnivurse",
+      "role": "Member",
+      "trophies": 11301,
+      "onlineLessThanOneHourAgo": true,
+      "avatarId": 28000023,
+      "nameColorCode": "CB5AFF",
+      "avatarUrl": "https://media.githubusercontent.com/media/fourjr/bs-assets/master/player_icons/28000023.png"
+    },
+    {
+      "id": {
+        "high": 0,
+        "low": 1069911
+      },
+      "tag": "8GY9JJJU",
+      "name": "Buttercup",
+      "role": "President",
+      "trophies": 11224,
+      "onlineLessThanOneHourAgo": true,
+      "avatarId": 28000015,
+      "nameColorCode": "A2E3FE",
+      "avatarUrl": "https://media.githubusercontent.com/media/fourjr/bs-assets/master/player_icons/28000015.png"
+    },
+    {
+      "id": {
+        "high": 0,
+        "low": 113452
+      },
+      "tag": "9U00L8U",
+      "name": "Bezbakri™",
+      "role": "Senior",
+      "trophies": 11163,
+      "onlineLessThanOneHourAgo": true,
+      "avatarId": 28000003,
+      "nameColorCode": "F05637",
+      "avatarUrl": "https://media.githubusercontent.com/media/fourjr/bs-assets/master/player_icons/28000003.png"
+    },
+    {
+      "id": {
+        "high": 1,
+        "low": 5637798
+      },
+      "tag": "VRRQRPQQ",
+      "name": "DAzo",
+      "role": "Senior",
+      "trophies": 10984,
+      "onlineLessThanOneHourAgo": true,
+      "avatarId": 28000018,
+      "nameColorCode": "A8E132",
+      "avatarUrl": "https://media.githubusercontent.com/media/fourjr/bs-assets/master/player_icons/28000018.png"
+    },
+    {
+      "id": {
+        "high": 0,
+        "low": 1441156
+      },
+      "tag": "9LVVRU8U",
+      "name": "Bot 8",
+      "role": "Member",
+      "trophies": 10787,
+      "onlineLessThanOneHourAgo": true,
+      "avatarId": 28000023,
+      "nameColorCode": "F9C908",
+      "avatarUrl": "https://media.githubusercontent.com/media/fourjr/bs-assets/master/player_icons/28000023.png"
+    },
+    {
+      "id": {
+        "high": 0,
+        "low": 207365
+      },
+      "tag": "Q0RU028",
+      "name": "Comic",
+      "role": "Member",
+      "trophies": 10666,
+      "onlineLessThanOneHourAgo": true,
+      "avatarId": 28000012,
+      "nameColorCode": "1BA5F5",
+      "avatarUrl": "https://media.githubusercontent.com/media/fourjr/bs-assets/master/player_icons/28000012.png"
+    },
+    {
+      "id": {
+        "high": 2,
+        "low": 1268940
+      },
+      "tag": "9280220L",
+      "name": "<c5>Nuke</c>",
+      "role": "Member",
+      "trophies": 10618,
+      "onlineLessThanOneHourAgo": true,
+      "avatarId": 28000042,
+      "nameColorCode": "1BA5F5",
+      "avatarUrl": "https://media.githubusercontent.com/media/fourjr/bs-assets/master/player_icons/28000042.png"
+    },
+    {
+      "id": {
+        "high": 0,
+        "low": 3626423
+      },
+      "tag": "GCP828LU",
+      "name": "DrXaos",
+      "role": "Member",
+      "trophies": 10538,
+      "onlineLessThanOneHourAgo": true,
+      "avatarId": 28000018,
+      "nameColorCode": "FF8AFB",
+      "avatarUrl": "https://media.githubusercontent.com/media/fourjr/bs-assets/master/player_icons/28000018.png"
+    },
+    {
+      "id": {
+        "high": 1,
+        "low": 91170
+      },
+      "tag": "92YQR8R",
+      "name": "meffewk",
+      "role": "Senior",
+      "trophies": 10467,
+      "onlineLessThanOneHourAgo": true,
+      "avatarId": 28000025,
+      "nameColorCode": "FFCE89",
+      "avatarUrl": "https://media.githubusercontent.com/media/fourjr/bs-assets/master/player_icons/28000025.png"
+    },
+    {
+      "id": {
+        "high": 9,
+        "low": 668658
+      },
+      "tag": "2GJ9U29C",
+      "name": "Squash",
+      "role": "Member",
+      "trophies": 10349,
+      "onlineLessThanOneHourAgo": true,
+      "avatarId": 28000024,
+      "nameColorCode": "A8E132",
+      "avatarUrl": "https://media.githubusercontent.com/media/fourjr/bs-assets/master/player_icons/28000024.png"
+    },
+    {
+      "id": {
+        "high": 0,
+        "low": 84470
+      },
+      "tag": "8U8UG8P",
+      "name": "-_FC_-",
+      "role": "Member",
+      "trophies": 10271,
+      "onlineLessThanOneHourAgo": true,
+      "avatarId": 28000037,
+      "nameColorCode": "F9C908",
+      "avatarUrl": "https://media.githubusercontent.com/media/fourjr/bs-assets/master/player_icons/28000037.png"
+    },
+    {
+      "id": {
+        "high": 6,
+        "low": 1146231
+      },
+      "tag": "8JVGY020",
+      "name": "Mr. Apple",
+      "role": "Member",
+      "trophies": 10201,
+      "onlineLessThanOneHourAgo": true,
+      "avatarId": 28000019,
+      "nameColorCode": "4DDBA2",
+      "avatarUrl": "https://media.githubusercontent.com/media/fourjr/bs-assets/master/player_icons/28000019.png"
+    },
+    {
+      "id": {
+        "high": 1,
+        "low": 5765833
+      },
+      "tag": "2000LU9UV",
+      "name": "Arman",
+      "role": "Member",
+      "trophies": 10114,
+      "onlineLessThanOneHourAgo": true,
+      "avatarId": 28000032,
+      "nameColorCode": "FF8AFB",
+      "avatarUrl": "https://media.githubusercontent.com/media/fourjr/bs-assets/master/player_icons/28000032.png"
+    },
+    {
+      "id": {
+        "high": 1,
+        "low": 1365434
+      },
+      "tag": "9PYV2L02",
+      "name": "adfun12345",
+      "role": "Member",
+      "trophies": 10068,
+      "onlineLessThanOneHourAgo": true,
+      "avatarId": 28000017,
+      "nameColorCode": "F9C908",
+      "avatarUrl": "https://media.githubusercontent.com/media/fourjr/bs-assets/master/player_icons/28000017.png"
+    },
+    {
+      "id": {
+        "high": 1,
+        "low": 43795
+      },
+      "tag": "2LCCCGV",
+      "name": "Eclipse",
+      "role": "Member",
+      "trophies": 10021,
+      "onlineLessThanOneHourAgo": true,
+      "avatarId": 28000029,
+      "nameColorCode": "F05637",
+      "avatarUrl": "https://media.githubusercontent.com/media/fourjr/bs-assets/master/player_icons/28000029.png"
+    },
+    {
+      "id": {
+        "high": 2,
+        "low": 2051788
+      },
+      "tag": "PVJGULYP",
+      "name": "Meatman",
+      "role": "Member",
+      "trophies": 10020,
+      "onlineLessThanOneHourAgo": true,
+      "avatarId": 28000009,
+      "nameColorCode": "F9C908",
+      "avatarUrl": "https://media.githubusercontent.com/media/fourjr/bs-assets/master/player_icons/28000009.png"
+    },
+    {
+      "id": {
+        "high": 0,
+        "low": 1125264
+      },
+      "tag": "8J9GGUG0",
+      "name": "Kiritomato",
+      "role": "Member",
+      "trophies": 9883,
+      "onlineLessThanOneHourAgo": true,
+      "avatarId": 28000020,
+      "nameColorCode": "F9C908",
+      "avatarUrl": "https://media.githubusercontent.com/media/fourjr/bs-assets/master/player_icons/28000020.png"
+    },
+    {
+      "id": {
+        "high": 1,
+        "low": 5253099
+      },
+      "tag": "UJGL20QQ",
+      "name": "Bren",
+      "role": "Member",
+      "trophies": 9785,
+      "onlineLessThanOneHourAgo": true,
+      "avatarId": 28000040,
+      "nameColorCode": "1BA5F5",
+      "avatarUrl": "https://media.githubusercontent.com/media/fourjr/bs-assets/master/player_icons/28000040.png"
+    },
+    {
+      "id": {
+        "high": 0,
+        "low": 4369255
+      },
+      "tag": "JGQJ9P0G",
+      "name": "Alphakat47",
+      "role": "Member",
+      "trophies": 9734,
+      "onlineLessThanOneHourAgo": true,
+      "avatarId": 28000029,
+      "nameColorCode": "FFFFFF",
+      "avatarUrl": "https://media.githubusercontent.com/media/fourjr/bs-assets/master/player_icons/28000029.png"
+    },
+    {
+      "id": {
+        "high": 5,
+        "low": 108214
+      },
+      "tag": "9RQ2JJR",
+      "name": "IceWizard",
+      "role": "Member",
+      "trophies": 9690,
+      "onlineLessThanOneHourAgo": true,
+      "avatarId": 28000024,
+      "nameColorCode": "FFFFFF",
+      "avatarUrl": "https://media.githubusercontent.com/media/fourjr/bs-assets/master/player_icons/28000024.png"
+    },
+    {
+      "id": {
+        "high": 0,
+        "low": 505308
+      },
+      "tag": "298QPL2J",
+      "name": "Andy",
+      "role": "Member",
+      "trophies": 9680,
+      "onlineLessThanOneHourAgo": true,
+      "avatarId": 28000023,
+      "nameColorCode": "CB5AFF",
+      "avatarUrl": "https://media.githubusercontent.com/media/fourjr/bs-assets/master/player_icons/28000023.png"
+    },
+    {
+      "id": {
+        "high": 1,
+        "low": 1211296
+      },
+      "tag": "8V8QV8UR",
+      "name": "❄️OGBanana❄️",
+      "role": "Member",
+      "trophies": 9661,
+      "onlineLessThanOneHourAgo": true,
+      "avatarId": 28000040,
+      "nameColorCode": "1BA5F5",
+      "avatarUrl": "https://media.githubusercontent.com/media/fourjr/bs-assets/master/player_icons/28000040.png"
+    },
+    {
+      "id": {
+        "high": 4,
+        "low": 1566747
+      },
+      "tag": "9C9JGCLP",
+      "name": "naguall",
+      "role": "Member",
+      "trophies": 9517,
+      "onlineLessThanOneHourAgo": true,
+      "avatarId": 28000022,
+      "nameColorCode": "CB5AFF",
+      "avatarUrl": "https://media.githubusercontent.com/media/fourjr/bs-assets/master/player_icons/28000022.png"
+    },
+    {
+      "id": {
+        "high": 4,
+        "low": 582242
+      },
+      "tag": "2YC2VVY8",
+      "name": "Tshawne",
+      "role": "Member",
+      "trophies": 9515,
+      "onlineLessThanOneHourAgo": true,
+      "avatarId": 28000000,
+      "nameColorCode": "FFFFFF",
+      "avatarUrl": "https://media.githubusercontent.com/media/fourjr/bs-assets/master/player_icons/28000000.png"
+    },
+    {
+      "id": {
+        "high": 3,
+        "low": 1354505
+      },
+      "tag": "9P0J9CYR",
+      "name": "Flamingo",
+      "role": "Member",
+      "trophies": 9484,
+      "onlineLessThanOneHourAgo": true,
+      "avatarId": 28000017,
+      "nameColorCode": "F9C908",
+      "avatarUrl": "https://media.githubusercontent.com/media/fourjr/bs-assets/master/player_icons/28000017.png"
+    },
+    {
+      "id": {
+        "high": 0,
+        "low": 183543
+      },
+      "tag": "L9Y2QGU",
+      "name": "Baj",
+      "role": "Member",
+      "trophies": 9478,
+      "onlineLessThanOneHourAgo": true,
+      "avatarId": 28000016,
+      "nameColorCode": "F9C908",
+      "avatarUrl": "https://media.githubusercontent.com/media/fourjr/bs-assets/master/player_icons/28000016.png"
+    },
+    {
+      "id": {
+        "high": 9,
+        "low": 7175047
+      },
+      "tag": "29YV9J802",
+      "name": "Daredevil",
+      "role": "Member",
+      "trophies": 9470,
+      "onlineLessThanOneHourAgo": true,
+      "avatarId": 28000022,
+      "nameColorCode": "F9C908",
+      "avatarUrl": "https://media.githubusercontent.com/media/fourjr/bs-assets/master/player_icons/28000022.png"
+    },
+    {
+      "id": {
+        "high": 1,
+        "low": 3680272
+      },
+      "tag": "GV2JUVUY",
+      "name": "Luai",
+      "role": "Member",
+      "trophies": 9406,
+      "onlineLessThanOneHourAgo": true,
+      "avatarId": 28000002,
+      "nameColorCode": "1BA5F5",
+      "avatarUrl": "https://media.githubusercontent.com/media/fourjr/bs-assets/master/player_icons/28000002.png"
+    },
+    {
+      "id": {
+        "high": 3,
+        "low": 405107
+      },
+      "tag": "VJCG9Y2",
+      "name": "Alair",
+      "role": "Member",
+      "trophies": 9343,
+      "onlineLessThanOneHourAgo": true,
+      "avatarId": 28000020,
+      "nameColorCode": "FF8AFB",
+      "avatarUrl": "https://media.githubusercontent.com/media/fourjr/bs-assets/master/player_icons/28000020.png"
+    },
+    {
+      "id": {
+        "high": 4,
+        "low": 1410467
+      },
+      "tag": "9YVY8JGU",
+      "name": "DM",
+      "role": "Member",
+      "trophies": 9337,
+      "onlineLessThanOneHourAgo": true,
+      "avatarId": 28000011,
+      "nameColorCode": "F05637",
+      "avatarUrl": "https://media.githubusercontent.com/media/fourjr/bs-assets/master/player_icons/28000011.png"
+    },
+    {
+      "id": {
+        "high": 1,
+        "low": 22427
+      },
+      "tag": "JRLPYC",
+      "name": "UltimatGamr3",
+      "role": "Member",
+      "trophies": 9306,
+      "onlineLessThanOneHourAgo": true,
+      "avatarId": 28000017,
+      "nameColorCode": "F05637",
+      "avatarUrl": "https://media.githubusercontent.com/media/fourjr/bs-assets/master/player_icons/28000017.png"
+    },
+    {
+      "id": {
+        "high": 8,
+        "low": 7362608
+      },
+      "tag": "29UPQGQGU",
+      "name": "Septnightking",
+      "role": "Member",
+      "trophies": 9262,
+      "onlineLessThanOneHourAgo": true,
+      "avatarId": 28000014,
+      "nameColorCode": "4DDBA2",
+      "avatarUrl": "https://media.githubusercontent.com/media/fourjr/bs-assets/master/player_icons/28000014.png"
+    },
+    {
+      "id": {
+        "high": 1,
+        "low": 3561630
+      },
+      "tag": "GR2PPPUR",
+      "name": "DT-playz",
+      "role": "Member",
+      "trophies": 9184,
+      "onlineLessThanOneHourAgo": true,
+      "avatarId": 28000038,
+      "nameColorCode": "A2E3FE",
+      "avatarUrl": "https://media.githubusercontent.com/media/fourjr/bs-assets/master/player_icons/28000038.png"
+    },
+    {
+      "id": {
+        "high": 1,
+        "low": 1521250
+      },
+      "tag": "9RJ2L8JV",
+      "name": "Spychicken",
+      "role": "Vice President",
+      "trophies": 9159,
+      "onlineLessThanOneHourAgo": true,
+      "avatarId": 28000017,
+      "nameColorCode": "F9775D",
+      "avatarUrl": "https://media.githubusercontent.com/media/fourjr/bs-assets/master/player_icons/28000017.png"
+    },
+    {
+      "id": {
+        "high": 9,
+        "low": 781911
+      },
+      "tag": "2UG8QVQC",
+      "name": "XxRaY88jlxX",
+      "role": "Member",
+      "trophies": 9129,
+      "onlineLessThanOneHourAgo": true,
+      "avatarId": 28000040,
+      "nameColorCode": "A8E132",
+      "avatarUrl": "https://media.githubusercontent.com/media/fourjr/bs-assets/master/player_icons/28000040.png"
+    },
+    {
+      "id": {
+        "high": 1,
+        "low": 30490
+      },
+      "tag": "20Q8QRQ",
+      "name": "Squirrel",
+      "role": "Member",
+      "trophies": 9122,
+      "onlineLessThanOneHourAgo": true,
+      "avatarId": 28000007,
+      "nameColorCode": "CB5AFF",
+      "avatarUrl": "https://media.githubusercontent.com/media/fourjr/bs-assets/master/player_icons/28000007.png"
+    },
+    {
+      "id": {
+        "high": 9,
+        "low": 380026
+      },
+      "tag": "UUULPQQ",
+      "name": "Leon Li",
+      "role": "Member",
+      "trophies": 9119,
+      "onlineLessThanOneHourAgo": true,
+      "avatarId": 28000037,
+      "nameColorCode": "1BA5F5",
+      "avatarUrl": "https://media.githubusercontent.com/media/fourjr/bs-assets/master/player_icons/28000037.png"
+    },
+    {
+      "id": {
+        "high": 6,
+        "low": 11274486
+      },
+      "tag": "2VYPQV2P8",
+      "name": "Deku",
+      "role": "Member",
+      "trophies": 8949,
+      "onlineLessThanOneHourAgo": true,
+      "avatarId": 28000029,
+      "nameColorCode": "A8E132",
+      "avatarUrl": "https://media.githubusercontent.com/media/fourjr/bs-assets/master/player_icons/28000029.png"
+    },
+    {
+      "id": {
+        "high": 2,
+        "low": 465516
+      },
+      "tag": "22CG80UJ",
+      "name": "Kirby15YT",
+      "role": "Member",
+      "trophies": 8902,
+      "onlineLessThanOneHourAgo": true,
+      "avatarId": 28000016,
+      "nameColorCode": "A8E132",
+      "avatarUrl": "https://media.githubusercontent.com/media/fourjr/bs-assets/master/player_icons/28000016.png"
+    },
+    {
+      "id": {
+        "high": 6,
+        "low": 74552
+      },
+      "tag": "8QLCP20",
+      "name": "Em3rald Spartan",
+      "role": "Member",
+      "trophies": 8811,
+      "onlineLessThanOneHourAgo": true,
+      "avatarId": 28000019,
+      "nameColorCode": "A8E132",
+      "avatarUrl": "https://media.githubusercontent.com/media/fourjr/bs-assets/master/player_icons/28000019.png"
+    },
+    {
+      "id": {
+        "high": 1,
+        "low": 3928589
+      },
+      "tag": "RQQVRGP2",
+      "name": "...",
+      "role": "Member",
+      "trophies": 8810,
+      "onlineLessThanOneHourAgo": true,
+      "avatarId": 28000024,
+      "nameColorCode": "FF8AFB",
+      "avatarUrl": "https://media.githubusercontent.com/media/fourjr/bs-assets/master/player_icons/28000024.png"
+    },
+    {
+      "id": {
+        "high": 1,
+        "low": 63863
+      },
+      "tag": "88YG0UR",
+      "name": "DarKnight",
+      "role": "Senior",
+      "trophies": 8792,
+      "onlineLessThanOneHourAgo": true,
+      "avatarId": 28000014,
+      "nameColorCode": "1BA5F5",
+      "avatarUrl": "https://media.githubusercontent.com/media/fourjr/bs-assets/master/player_icons/28000014.png"
+    },
+    {
+      "id": {
+        "high": 4,
+        "low": 548769
+      },
+      "tag": "2PR8V2QL",
+      "name": "Robohost",
+      "role": "Member",
+      "trophies": 8789,
+      "onlineLessThanOneHourAgo": true,
+      "avatarId": 28000012,
+      "nameColorCode": "F9C908",
+      "avatarUrl": "https://media.githubusercontent.com/media/fourjr/bs-assets/master/player_icons/28000012.png"
+    },
+    {
+      "id": {
+        "high": 0,
+        "low": 5094222
+      },
+      "tag": "UY8CPRJ0",
+      "name": "Z3kro",
+      "role": "Member",
+      "trophies": 8765,
+      "onlineLessThanOneHourAgo": true,
+      "avatarId": 28000017,
+      "nameColorCode": "A8E132",
+      "avatarUrl": "https://media.githubusercontent.com/media/fourjr/bs-assets/master/player_icons/28000017.png"
+    },
+    {
+      "id": {
+        "high": 5,
+        "low": 93611
+      },
+      "tag": "98QCYLY",
+      "name": "Tyler☠️",
+      "role": "Member",
+      "trophies": 8725,
+      "onlineLessThanOneHourAgo": true,
+      "avatarId": 28000008,
+      "nameColorCode": "F9C908",
+      "avatarUrl": "https://media.githubusercontent.com/media/fourjr/bs-assets/master/player_icons/28000008.png"
+    },
+    {
+      "id": {
+        "high": 2,
+        "low": 497085
+      },
+      "tag": "28UGQ9UL",
+      "name": "Andree",
+      "role": "Member",
+      "trophies": 8707,
+      "onlineLessThanOneHourAgo": true,
+      "avatarId": 28000031,
+      "nameColorCode": "4DDBA2",
+      "avatarUrl": "https://media.githubusercontent.com/media/fourjr/bs-assets/master/player_icons/28000031.png"
+    },
+    {
+      "id": {
+        "high": 0,
+        "low": 465657
+      },
+      "tag": "22CR290U",
+      "name": "KoningSam",
+      "role": "Member",
+      "trophies": 8704,
+      "onlineLessThanOneHourAgo": true,
+      "avatarId": 28000022,
+      "nameColorCode": "FFFFFF",
+      "avatarUrl": "https://media.githubusercontent.com/media/fourjr/bs-assets/master/player_icons/28000022.png"
+    },
+    {
+      "id": {
+        "high": 1,
+        "low": 17144
+      },
+      "tag": "G89L8Y",
+      "name": "Childish",
+      "role": "Member",
+      "trophies": 8698,
+      "onlineLessThanOneHourAgo": true,
+      "avatarId": 28000016,
+      "nameColorCode": "FFFFFF",
+      "avatarUrl": "https://media.githubusercontent.com/media/fourjr/bs-assets/master/player_icons/28000016.png"
+    },
+    {
+      "id": {
+        "high": 1,
+        "low": 8235543
+      },
+      "tag": "2L000JQGY",
+      "name": "Dhyey",
+      "role": "Member",
+      "trophies": 8688,
+      "onlineLessThanOneHourAgo": true,
+      "avatarId": 28000015,
+      "nameColorCode": "1BA5F5",
+      "avatarUrl": "https://media.githubusercontent.com/media/fourjr/bs-assets/master/player_icons/28000015.png"
+    },
+    {
+      "id": {
+        "high": 4,
+        "low": 407737
+      },
+      "tag": "VU22GLG",
+      "name": "Audiamer",
+      "role": "Member",
+      "trophies": 8669,
+      "onlineLessThanOneHourAgo": true,
+      "avatarId": 28000027,
+      "nameColorCode": "A2E3FE",
+      "avatarUrl": "https://media.githubusercontent.com/media/fourjr/bs-assets/master/player_icons/28000027.png"
+    },
+    {
+      "id": {
+        "high": 5,
+        "low": 553900
+      },
+      "tag": "2PCR2C9Q",
+      "name": "Wilson",
+      "role": "Member",
+      "trophies": 8664,
+      "onlineLessThanOneHourAgo": true,
+      "avatarId": 28000001,
+      "nameColorCode": "4DDBA2",
+      "avatarUrl": "https://media.githubusercontent.com/media/fourjr/bs-assets/master/player_icons/28000001.png"
+    },
+    {
+      "id": {
+        "high": 1,
+        "low": 117914
+      },
+      "tag": "P02JJ2C",
+      "name": "BrawlCore",
+      "role": "Member",
+      "trophies": 8660,
+      "onlineLessThanOneHourAgo": true,
+      "avatarId": 28000016,
+      "nameColorCode": "A8E132",
+      "avatarUrl": "https://media.githubusercontent.com/media/fourjr/bs-assets/master/player_icons/28000016.png"
+    },
+    {
+      "id": {
+        "high": 1,
+        "low": 439181
+      },
+      "tag": "20V0R88Y",
+      "name": "Serion",
+      "role": "Member",
+      "trophies": 8659,
+      "onlineLessThanOneHourAgo": true,
+      "avatarId": 28000031,
+      "nameColorCode": "FF8AFB",
+      "avatarUrl": "https://media.githubusercontent.com/media/fourjr/bs-assets/master/player_icons/28000031.png"
+    },
+    {
+      "id": {
+        "high": 8,
+        "low": 256873
+      },
+      "tag": "GJ9JCGU",
+      "name": "KadoBoss55",
+      "role": "Member",
+      "trophies": 8644,
+      "onlineLessThanOneHourAgo": true,
+      "avatarId": 28000017,
+      "nameColorCode": "A2E3FE",
+      "avatarUrl": "https://media.githubusercontent.com/media/fourjr/bs-assets/master/player_icons/28000017.png"
+    },
+    {
+      "id": {
+        "high": 1,
+        "low": 1475370
+      },
+      "tag": "9G89RCUY",
+      "name": "King Tut",
+      "role": "Member",
+      "trophies": 8637,
+      "onlineLessThanOneHourAgo": true,
+      "avatarId": 28000029,
+      "nameColorCode": "F05637",
+      "avatarUrl": "https://media.githubusercontent.com/media/fourjr/bs-assets/master/player_icons/28000029.png"
+    },
+    {
+      "id": {
+        "high": 1,
+        "low": 6171588
+      },
+      "tag": "20VCGJVGV",
+      "name": "BaLLHaWK",
+      "role": "Member",
+      "trophies": 8602,
+      "onlineLessThanOneHourAgo": true,
+      "avatarId": 28000029,
+      "nameColorCode": "1BA5F5",
+      "avatarUrl": "https://media.githubusercontent.com/media/fourjr/bs-assets/master/player_icons/28000029.png"
+    },
+    {
+      "id": {
+        "high": 7,
+        "low": 7647336
+      },
+      "tag": "2PG02029R",
+      "name": "Bananatoly",
+      "role": "Member",
+      "trophies": 8582,
+      "onlineLessThanOneHourAgo": true,
+      "avatarId": 28000014,
+      "nameColorCode": "F9C908",
+      "avatarUrl": "https://media.githubusercontent.com/media/fourjr/bs-assets/master/player_icons/28000014.png"
+    },
+    {
+      "id": {
+        "high": 4,
+        "low": 382537
+      },
+      "tag": "V028G8G",
+      "name": "omino",
+      "role": "Member",
+      "trophies": 8569,
+      "onlineLessThanOneHourAgo": true,
+      "avatarId": 28000016,
+      "nameColorCode": "FF9727",
+      "avatarUrl": "https://media.githubusercontent.com/media/fourjr/bs-assets/master/player_icons/28000016.png"
+    },
+    {
+      "id": {
+        "high": 1,
+        "low": 456806
+      },
+      "tag": "22QL2LG2",
+      "name": "apoqalypse",
+      "role": "Member",
+      "trophies": 8548,
+      "onlineLessThanOneHourAgo": true,
+      "avatarId": 28000037,
+      "nameColorCode": "CB5AFF",
+      "avatarUrl": "https://media.githubusercontent.com/media/fourjr/bs-assets/master/player_icons/28000037.png"
+    },
+    {
+      "id": {
+        "high": 1,
+        "low": 11210
+      },
+      "tag": "YPRCGV",
+      "name": "DankestHour",
+      "role": "Member",
+      "trophies": 8509,
+      "onlineLessThanOneHourAgo": true,
+      "avatarId": 28000037,
+      "nameColorCode": "A8E132",
+      "avatarUrl": "https://media.githubusercontent.com/media/fourjr/bs-assets/master/player_icons/28000037.png"
+    },
+    {
+      "id": {
+        "high": 1,
+        "low": 3529308
+      },
+      "tag": "GQVUUUYC",
+      "name": "FutureLights",
+      "role": "Member",
+      "trophies": 8492,
+      "onlineLessThanOneHourAgo": true,
+      "avatarId": 28000022,
+      "nameColorCode": "FF9727",
+      "avatarUrl": "https://media.githubusercontent.com/media/fourjr/bs-assets/master/player_icons/28000022.png"
+    },
+    {
+      "id": {
+        "high": 7,
+        "low": 934516
+      },
+      "tag": "89JCQ8Y2",
+      "name": "GrandDragon",
+      "role": "Member",
+      "trophies": 8488,
+      "onlineLessThanOneHourAgo": true,
+      "avatarId": 28000000,
+      "nameColorCode": "FFFFFF",
+      "avatarUrl": "https://media.githubusercontent.com/media/fourjr/bs-assets/master/player_icons/28000000.png"
+    },
+    {
+      "id": {
+        "high": 0,
+        "low": 338911
+      },
+      "tag": "CQPLQ9J",
+      "name": "Matred",
+      "role": "Member",
+      "trophies": 8471,
+      "onlineLessThanOneHourAgo": true,
+      "avatarId": 28000017,
+      "nameColorCode": "A2E3FE",
+      "avatarUrl": "https://media.githubusercontent.com/media/fourjr/bs-assets/master/player_icons/28000017.png"
+    },
+    {
+      "id": {
+        "high": 1,
+        "low": 7021769
+      },
+      "tag": "290JPP82C",
+      "name": "⚠️Hydro⚠️",
+      "role": "Member",
+      "trophies": 8454,
+      "onlineLessThanOneHourAgo": true,
+      "avatarId": 28000041,
+      "nameColorCode": "1BA5F5",
+      "avatarUrl": "https://media.githubusercontent.com/media/fourjr/bs-assets/master/player_icons/28000041.png"
+    },
+    {
+      "id": {
+        "high": 8,
+        "low": 4278718
+      },
+      "tag": "JYLGURRL",
+      "name": "doggydirtstar",
+      "role": "Member",
+      "trophies": 8441,
+      "onlineLessThanOneHourAgo": true,
+      "avatarId": 28000014,
+      "nameColorCode": "FFFFFF",
+      "avatarUrl": "https://media.githubusercontent.com/media/fourjr/bs-assets/master/player_icons/28000014.png"
+    },
+    {
+      "id": {
+        "high": 4,
+        "low": 1614996
+      },
+      "tag": "9UUJ88QJ",
+      "name": "Cuhple",
+      "role": "Member",
+      "trophies": 8422,
+      "onlineLessThanOneHourAgo": true,
+      "avatarId": 28000039,
+      "nameColorCode": "A2E3FE",
+      "avatarUrl": "https://media.githubusercontent.com/media/fourjr/bs-assets/master/player_icons/28000039.png"
+    },
+    {
+      "id": {
+        "high": 0,
+        "low": 4363091
+      },
+      "tag": "JGPC892L",
+      "name": "KaRro",
+      "role": "Member",
+      "trophies": 8415,
+      "onlineLessThanOneHourAgo": true,
+      "avatarId": 28000022,
+      "nameColorCode": "F9C908",
+      "avatarUrl": "https://media.githubusercontent.com/media/fourjr/bs-assets/master/player_icons/28000022.png"
+    },
+    {
+      "id": {
+        "high": 5,
+        "low": 468823
+      },
+      "tag": "22V88G9C",
+      "name": "Beach~Bum",
+      "role": "Member",
+      "trophies": 8399,
+      "onlineLessThanOneHourAgo": true,
+      "avatarId": 28000035,
+      "nameColorCode": "1BA5F5",
+      "avatarUrl": "https://media.githubusercontent.com/media/fourjr/bs-assets/master/player_icons/28000035.png"
+    },
+    {
+      "id": {
+        "high": 0,
+        "low": 672379
+      },
+      "tag": "2GU0R9PP",
+      "name": "ash",
+      "role": "Member",
+      "trophies": 8320,
+      "onlineLessThanOneHourAgo": true,
+      "avatarId": 28000021,
+      "nameColorCode": "A2E3FE",
+      "avatarUrl": "https://media.githubusercontent.com/media/fourjr/bs-assets/master/player_icons/28000021.png"
+    },
+    {
+      "id": {
+        "high": 1,
+        "low": 4196302
+      },
+      "tag": "J8RYRJ9Q",
+      "name": "Davliar",
+      "role": "Member",
+      "trophies": 8245,
+      "onlineLessThanOneHourAgo": true,
+      "avatarId": 28000022,
+      "nameColorCode": "4DDBA2",
+      "avatarUrl": "https://media.githubusercontent.com/media/fourjr/bs-assets/master/player_icons/28000022.png"
+    },
+    {
+      "id": {
+        "high": 1,
+        "low": 3766282
+      },
+      "tag": "R80J29LR",
+      "name": "+=TrashCans=+",
+      "role": "Member",
+      "trophies": 8216,
+      "onlineLessThanOneHourAgo": true,
+      "avatarId": 28000034,
+      "nameColorCode": "4DDBA2",
+      "avatarUrl": "https://media.githubusercontent.com/media/fourjr/bs-assets/master/player_icons/28000034.png"
+    },
+    {
+      "id": {
+        "high": 6,
+        "low": 6409935
+      },
+      "tag": "22QV22L0L",
+      "name": "Keswa124",
+      "role": "Member",
+      "trophies": 8177,
+      "onlineLessThanOneHourAgo": true,
+      "avatarId": 28000011,
+      "nameColorCode": "F9C908",
+      "avatarUrl": "https://media.githubusercontent.com/media/fourjr/bs-assets/master/player_icons/28000011.png"
+    },
+    {
+      "id": {
+        "high": 0,
+        "low": 1036797
+      },
+      "tag": "8Q9Q2YCJ",
+      "name": "Ghost Rider",
+      "role": "Member",
+      "trophies": 8147,
+      "onlineLessThanOneHourAgo": true,
+      "avatarId": 28000000,
+      "nameColorCode": "F05637",
+      "avatarUrl": "https://media.githubusercontent.com/media/fourjr/bs-assets/master/player_icons/28000000.png"
+    },
+    {
+      "id": {
+        "high": 0,
+        "low": 16228972
+      },
+      "tag": "8CYJU28R8",
+      "name": "Brawl Master",
+      "role": "Member",
+      "trophies": 8120,
+      "onlineLessThanOneHourAgo": true,
+      "avatarId": 28000031,
+      "nameColorCode": "F05637",
+      "avatarUrl": "https://media.githubusercontent.com/media/fourjr/bs-assets/master/player_icons/28000031.png"
+    },
+    {
+      "id": {
+        "high": 7,
+        "low": 53435
+      },
+      "tag": "2CL28RR",
+      "name": "NotoriousK16",
+      "role": "Member",
+      "trophies": 8089,
+      "onlineLessThanOneHourAgo": true,
+      "avatarId": 28000022,
+      "nameColorCode": "1BA5F5",
+      "avatarUrl": "https://media.githubusercontent.com/media/fourjr/bs-assets/master/player_icons/28000022.png"
+    },
+    {
+      "id": {
+        "high": 1,
+        "low": 3527156
+      },
+      "tag": "GQUUG2GV",
+      "name": "DOCTOR",
+      "role": "Member",
+      "trophies": 8063,
+      "onlineLessThanOneHourAgo": true,
+      "avatarId": 28000034,
+      "nameColorCode": "CB5AFF",
+      "avatarUrl": "https://media.githubusercontent.com/media/fourjr/bs-assets/master/player_icons/28000034.png"
+    },
+    {
+      "id": {
+        "high": 6,
+        "low": 640692
+      },
+      "tag": "2QJVQ09P",
+      "name": "PURREE",
+      "role": "Member",
+      "trophies": 7933,
+      "onlineLessThanOneHourAgo": true,
+      "avatarId": 28000018,
+      "nameColorCode": "FFCE89",
+      "avatarUrl": "https://media.githubusercontent.com/media/fourjr/bs-assets/master/player_icons/28000018.png"
+    },
+    {
+      "id": {
+        "high": 0,
+        "low": 3547165
+      },
+      "tag": "GGGYUCCJ",
+      "name": "Crumbaz",
+      "role": "Member",
+      "trophies": 7920,
+      "onlineLessThanOneHourAgo": true,
+      "avatarId": 28000002,
+      "nameColorCode": "FFFFFF",
+      "avatarUrl": "https://media.githubusercontent.com/media/fourjr/bs-assets/master/player_icons/28000002.png"
+    },
+    {
+      "id": {
+        "high": 1,
+        "low": 15412
+      },
+      "tag": "QPRCVQ",
+      "name": "Classifys",
+      "role": "Member",
+      "trophies": 7894,
+      "onlineLessThanOneHourAgo": true,
+      "avatarId": 28000017,
+      "nameColorCode": "A2E3FE",
+      "avatarUrl": "https://media.githubusercontent.com/media/fourjr/bs-assets/master/player_icons/28000017.png"
+    },
+    {
+      "id": {
+        "high": 0,
+        "low": 52862
+      },
+      "tag": "2C89J9L",
+      "name": "Galactic",
+      "role": "Member",
+      "trophies": 7872,
+      "onlineLessThanOneHourAgo": true,
+      "avatarId": 28000037,
+      "nameColorCode": "CB5AFF",
+      "avatarUrl": "https://media.githubusercontent.com/media/fourjr/bs-assets/master/player_icons/28000037.png"
+    },
+    {
+      "id": {
+        "high": 5,
+        "low": 697889
+      },
+      "tag": "2RJ8R8Q9",
+      "name": "Phantom",
+      "role": "Member",
+      "trophies": 7765,
+      "onlineLessThanOneHourAgo": true,
+      "avatarId": 28000014,
+      "nameColorCode": "4DDBA2",
+      "avatarUrl": "https://media.githubusercontent.com/media/fourjr/bs-assets/master/player_icons/28000014.png"
+    },
+    {
+      "id": {
+        "high": 0,
+        "low": 3555100
+      },
+      "tag": "GGU8C2UU",
+      "name": "Pegasus",
+      "role": "Member",
+      "trophies": 7680,
+      "onlineLessThanOneHourAgo": true,
+      "avatarId": 28000011,
+      "nameColorCode": "1BA5F5",
+      "avatarUrl": "https://media.githubusercontent.com/media/fourjr/bs-assets/master/player_icons/28000011.png"
+    },
+    {
+      "id": {
+        "high": 1,
+        "low": 14948
+      },
+      "tag": "Q2GQUV",
+      "name": "Nich_12",
+      "role": "Member",
+      "trophies": 7664,
+      "onlineLessThanOneHourAgo": true,
+      "avatarId": 28000021,
+      "nameColorCode": "4DDBA2",
+      "avatarUrl": "https://media.githubusercontent.com/media/fourjr/bs-assets/master/player_icons/28000021.png"
+    },
+    {
+      "id": {
+        "high": 1,
+        "low": 5988972
+      },
+      "tag": "20QGRCUJV",
+      "name": "Budzeke",
+      "role": "Member",
+      "trophies": 7583,
+      "onlineLessThanOneHourAgo": true,
+      "avatarId": 28000017,
+      "nameColorCode": "F9C908",
+      "avatarUrl": "https://media.githubusercontent.com/media/fourjr/bs-assets/master/player_icons/28000017.png"
+    },
+    {
+      "id": {
+        "high": 0,
+        "low": 3545229
+      },
+      "tag": "GGQQ098G",
+      "name": "fourjr",
+      "role": "Vice President",
+      "trophies": 6813,
+      "onlineLessThanOneHourAgo": true,
+      "avatarId": 28000013,
+      "nameColorCode": "A2E3FE",
+      "avatarUrl": "https://media.githubusercontent.com/media/fourjr/bs-assets/master/player_icons/28000013.png"
+    },
+    {
+      "id": {
+        "high": 0,
+        "low": 1429818
+      },
+      "tag": "9LGG82YL",
+      "name": "CanYaDigIt",
+      "role": "Senior",
+      "trophies": 5902,
+      "onlineLessThanOneHourAgo": true,
+      "avatarId": 28000014,
+      "nameColorCode": "FFFFFF",
+      "avatarUrl": "https://media.githubusercontent.com/media/fourjr/bs-assets/master/player_icons/28000014.png"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+- Getting Started
+  - [Introduction](/)
+  - [Authentication](/authentication)
+  - [Wrappers](/wrappers)
+  - [FAQ](/faq)
+- Endpoints
+  - [Player](/endpoints/player)
+  - [Player Search](/endpoints/player_search)
+  - [Club](/endpoints/club)
+  - [Club Search](/endpoints/club_search)
+  - [Events](/endpoints/events)
+  - [Misc](/endpoints/misc)
+  - [Top Clubs](/endpoints/top_clubs)
+  - [Top Players](/endpoints/top_players)
+- Other Features
+  - [Event Notifications](/event_notifications)
