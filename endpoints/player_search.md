@@ -1,4 +1,4 @@
-# Search Clubs
+# Search Players
 
 This endpoint retrieves players by their name from a database. It only returns players that the API has seen before. A maximum of 100 players will be returned.
 

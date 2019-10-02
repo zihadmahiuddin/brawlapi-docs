@@ -5,6 +5,7 @@
   - [FAQ](/faq)
 - Endpoints
   - [Player](/endpoints/player)
+  - [Player Battle Log](/endpoints/player_battlelog)
   - [Player Search](/endpoints/player_search)
   - [Club](/endpoints/club)
   - [Club Search](/endpoints/club_search)
